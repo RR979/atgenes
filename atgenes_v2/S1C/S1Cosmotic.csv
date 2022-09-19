@@ -1,0 +1,1270 @@
+nc,ps,Unique,Redundant,AGI,Symbol,Description,cor.264703_at,cor.263235_at
+2,244937_at,T,F,ATCG01110,NDHH,NAD(P)H dehydrogenase subunit H,0.570462106,0.538001263
+2,244960_at,T,F,ATCG01020,RPL32,ribosomal protein L32,0.510022972,0.524279706
+2,244968_at,T,F,ATCG00640,RPL33,ribosomal protein L33,0.506754571,0.600831491
+2,244974_at,T,F,ATCG00700,PSBN,photosystem II reaction center protein N,0.542903091,0.55324723
+2,244978_at,T,F,ATCG00740,RPOA,RNA polymerase subunit alpha,0.531877997,0.54387004
+2,244979_at,T,F,ATCG00750,RPS11,ribosomal protein S11,0.584657867,0.558503715
+2,244980_at,T,F,ATCG00760,RPL36,ribosomal protein L36,0.580434684,0.54468302
+2,244981_at,T,F,ATCG00770,RPS8,ribosomal protein S8,0.600028724,0.526103621
+2,244982_at,T,F,ATCG00780,RPL14,ribosomal protein L14,0.615821691,0.505591673
+2,244987_s_at,F,NA,ATCG00830,RPL2.1,ribosomal protein L2,0.518887837,0.586806118
+2,244995_at,T,F,ATCG00150,ATPI,"ATPase, F0 complex, subunit A protein",0.530695269,0.564673367
+2,245008_at,T,F,ATCG00360,YCF3,Tetratricopeptide repeat (TPR)-like superfamily protein,0.549979243,0.524423713
+2,245009_at,T,F,ATCG00380,RPS4,chloroplast ribosomal protein S4,0.511741769,0.563814066
+2,245016_at,T,F,ATCG00500,ACCD,acetyl-CoA carboxylase carboxyl transferase subunit beta,0.535761549,0.503237548
+2,245017_at,T,F,ATCG00510,PSAI,photsystem I subunit I,0.50389863,0.50752214
+2,245020_at,T,F,ATCG00540,PETA,photosynthetic electron transfer A,0.502652594,0.552292907
+2,245028_at,T,F,AT2G26570,AT2G26570,Plant protein of unknown function (DUF827),0.607156106,0.809877292
+2,245029_at,T,F,AT2G26580,YAB5,plant-specific transcription factor YABBY family protein,0.575268446,0.530120107
+2,245042_at,T,F,AT2G26540,DUF3|ATDUF3|HEMD|ATUROS|UROS,uroporphyrinogen-III synthase family protein,0.534261459,0.587584693
+2,245089_at,T,F,AT2G45290,AT2G45290,Transketolase,0.566480062,0.598224023
+2,245099_at,T,F,AT2G40830,RHC1A,RING-H2 finger C1A,0.814538686,0.509497133
+2,245118_at,T,F,AT2G41680,NTRC,NADPH-dependent thioredoxin reductase C,0.535109897,0.560549002
+2,245127_at,T,F,AT2G47600,MHX1|ATMHX|MHX|ATMHX1,magnesium/proton exchanger,0.731317129,0.625981621
+2,245183_at,T,F,AT5G12440,AT5G12440,CCCH-type zinc fingerfamily protein with RNA-binding domain,0.625817654,0.646849049
+2,245190_at,T,F,AT1G67690,AT1G67690,Zincin-like metalloproteases family protein,0.62560208,0.569039657
+2,245198_at,T,F,AT1G67700,AT1G67700,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast, chloroplast envelope; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 49 Blast hits to 49 proteins in 20 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 44; Viruses - 0; Other Eukaryotes - 5 (source: NCBI BLink).",0.522284637,0.608818144
+2,245215_at,T,F,AT1G67830,ATFXG1|FXG1,alpha-fucosidase 1,0.621395774,0.516641345
+2,245216_at,T,F,AT4G16143,IMPA-2,importin alpha isoform 2,0.633485622,0.503963314
+2,245263_at,T,F,AT4G17740,AT4G17740,Peptidase S41 family protein,0.618414629,0.517577803
+2,245281_at,T,F,AT4G15560,DXPS2|DXS|CLA|DEF|CLA1,Deoxyxylulose-5-phosphate synthase,0.607546911,0.524985609
+2,245292_at,T,F,AT4G15093,AT4G15093,catalytic LigB subunit of aromatic ring-opening dioxygenase family,0.562323999,0.525193598
+2,245339_at,T,F,AT4G16120,ATSEB1|COBL7|SEB1,COBRA-like protein-7 precursor,0.693586546,0.508384673
+2,245347_at,T,F,AT4G14890,AT4G14890,2Fe-2S ferredoxin-like superfamily protein,0.540954743,0.583708593
+2,245354_at,T,F,AT4G17600,LIL3:1,Chlorophyll A-B binding family protein,0.52081565,0.583043698
+2,245360_at,T,F,AT4G16330,AT4G16330,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,0.569157886,0.540019939
+2,245364_at,T,F,AT4G15790,AT4G15790,unknown protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; Has 411 Blast hits to 380 proteins in 121 species: Archae - 4; Bacteria - 107; Metazoa - 85; Fungi - 29; Plants - 59; Viruses - 0; Other Eukaryotes - 127 (source: NCBI BLink).,0.682317174,0.583529182
+2,245387_at,T,F,AT4G17520,AT4G17520,Hyaluronan / mRNA binding family,0.580931821,0.774241286
+2,245388_at,T,F,AT4G16410,AT4G16410,unknown protein; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF751 (InterPro:IPR008470); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.527559168,0.57961866
+2,245396_at,T,F,AT4G14870,AT4G14870,secE/sec61-gamma protein transport protein,0.565227342,0.54367947
+2,245417_at,T,F,AT4G17360,AT4G17360,Formyl transferase,0.54619362,0.557442494
+2,245448_at,T,F,AT4G16860,RPP4,Disease resistance protein (TIR-NBS-LRR class) family,0.53776038,0.568172103
+2,245449_at,T,F,AT4G16870,AT4G16870,"copia-like retrotransposon family, has a 0. P-value blast match to dbj|BAA78426.1| polyprotein (AtRE2-1) (Arabidopsis thaliana) (Ty1_Copia-element)",0.539846775,0.623811054
+2,245456_at,T,F,AT4G16950,RPP5,Disease resistance protein (TIR-NBS-LRR class) family,0.52624673,0.541663984
+2,245460_at,T,F,AT4G16990,RLM3,"disease resistance protein (TIR-NBS class), putative",0.539940572,0.535159353
+2,245466_at,T,F,AT4G16600,AT4G16600,Nucleotide-diphospho-sugar transferases superfamily protein,0.511224952,0.540345912
+2,245527_at,T,F,AT4G15955,AT4G15955,alpha/beta-Hydrolases superfamily protein,0.698910307,0.528485544
+2,245529_at,T,F,AT4G15570,MAA3,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.657866551,0.574427949
+2,245543_at,T,F,AT4G15260,AT4G15260,UDP-Glycosyltransferase superfamily protein,0.736681285,0.518989283
+2,245576_at,T,F,AT4G14770,TCX2|ATTCX2,TESMIN/TSO1-like CXC 2,0.62076061,0.616712897
+2,245592_at,T,F,AT4G14540,NF-YB3,"nuclear factor Y, subunit B3",0.581600659,0.571161442
+2,245632_at,T,F,AT1G25290,ATRBL10|RBL10,RHOMBOID-like protein 10,0.52957573,0.603427649
+2,245633_at,T,F,AT1G25280,AtTLP10|TLP10,tubby like protein 10,0.601607777,0.507124751
+2,245659_at,T,F,AT1G28260,AT1G28260,Telomerase activating protein Est1,0.668844026,0.507131753
+2,245744_at,T,T,AT1G51110,AT1G51110,Plastid-lipid associated protein PAP / fibrillin family protein,0.535614902,0.590526718
+2,245748_at,T,F,AT1G51140,AT1G51140,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,0.78514823,0.512142479
+2,245774_at,T,F,AT1G30210,ATTCP24|TCP24,"TEOSINTE BRANCHED 1, cycloidea, and PCF family 24",0.518269479,0.555963584
+2,245775_at,T,F,AT1G30270,SnRK3.23|CIPK23|ATCIPK23|LKS1,CBL-interacting protein kinase 23,0.564550054,0.528538849
+2,245783_s_at,F,NA,AT1G35170,AT1G35170,"TRAM, LAG1 and CLN8 (TLC) lipid-sensing domain containing protein",0.555537496,0.556538899
+2,245788_at,T,F,AT1G32120,AT1G32120,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: membrane; EXPRESSED IN: 14 plant structures; EXPRESSED DURING: 4 anthesis, C globular stage, F mature embryo stage, petal differentiation and expansion stage, E expanded cotyledon stage; CONTAINS InterPro DOMAIN/s: Aminotransferase-like, plant mobile domain (InterPro:IPR019557), Protein of unknown function DUF716 (InterPro:IPR006904); BEST Arabidopsis thaliana protein match is: Aminotransferase-like, plant mobile domain family protein (TAIR:AT1G51538.1); Has 16736 Blast hits to 9656 proteins in 576 species: Archae - 4; Bacteria - 1182; Metazoa - 7098; Fungi - 2631; Plants - 1178; Viruses - 174; Other Eukaryotes - 4469 (source: NCBI BLink).",0.528872678,0.618436686
+2,245793_at,T,F,AT1G32220,AT1G32220,NAD(P)-binding Rossmann-fold superfamily protein,0.546454863,0.560769708
+2,245803_at,T,F,AT1G47128,RD21|RD21A,Granulin repeat cysteine protease family protein,0.743520478,0.511654085
+2,245809_at,T,F,AT1G58440,XF1|SQE1,FAD/NAD(P)-binding oxidoreductase family protein,0.516786257,0.615689727
+2,245852_at,T,F,AT5G13510,AT5G13510,Ribosomal protein L10 family protein,0.560595953,0.517693144
+2,245877_at,T,F,AT1G26220,AT1G26220,Acyl-CoA N-acyltransferases (NAT) superfamily protein,0.545452988,0.552561857
+2,245924_at,T,F,AT5G28750,AT5G28750,Bacterial sec-independent translocation protein mttA/Hcf106,0.520190787,0.570413997
+2,245937_at,T,F,AT5G19750,AT5G19750,Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein,0.548140103,0.697673162
+2,245952_at,T,F,AT5G28500,AT5G28500,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast stroma, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G04550.1); Has 109 Blast hits to 109 proteins in 49 species: Archae - 0; Bacteria - 67; Metazoa - 0; Fungi - 0; Plants - 41; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).",0.536669553,0.545702054
+2,245954_at,T,F,AT5G28530,FRS10,FAR1-related sequence 10,0.550976842,0.599614021
+2,245968_at,T,F,AT5G19810,AT5G19810,Proline-rich extensin-like family protein,0.500752266,0.510716223
+2,245977_at,T,F,AT5G13110,G6PD2,glucose-6-phosphate dehydrogenase 2,0.62906338,0.52963527
+2,245981_at,T,F,AT5G13100,AT5G13100,unknown protein; Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.556415528,0.730259731
+2,245984_at,T,F,AT5G13090,AT5G13090,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G24270.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.504674432,0.582608012
+2,246012_at,T,F,AT5G10650,AT5G10650,RING/U-box superfamily protein,0.736738011,0.542879093
+2,246015_at,T,F,AT5G10700,AT5G10700,Peptidyl-tRNA hydrolase II (PTH2) family protein,0.521881226,0.588495771
+2,246017_at,T,F,AT5G10730,AT5G10730,NAD(P)-binding Rossmann-fold superfamily protein,0.655224402,0.551403281
+2,246019_at,T,F,AT5G10690,AT5G10690,pentatricopeptide (PPR) repeat-containing protein / CBS domain-containing protein,0.6096532,0.526940539
+2,246031_at,T,F,AT5G21160,AT5G21160,LA RNA-binding protein,0.536376805,0.663807764
+2,246045_at,T,F,AT5G19430,AT5G19430,RING/U-box superfamily protein,0.549572052,0.722561149
+2,246060_at,T,F,AT5G08420,AT5G08420,RNA-binding KH domain-containing protein,0.740585953,0.667574138
+2,246071_at,T,F,AT5G20150,SPX1|ATSPX1,SPX  domain gene 1,0.659033772,0.579289968
+2,246108_at,T,F,AT5G28630,AT5G28630,glycine-rich protein,0.683111078,0.51550421
+2,246110_at,T,F,AT5G20140,AT5G20140,SOUL heme-binding family protein,0.538315208,0.573003035
+2,246154_at,T,F,AT5G19940,AT5G19940,Plastid-lipid associated protein PAP / fibrillin family protein,0.50451606,0.617764739
+2,246197_at,T,F,AT4G37010,CEN2,centrin 2,0.540065563,0.510225644
+2,246201_at,T,F,AT4G36750,AT4G36750,Quinone reductase family protein,0.537465112,0.516282122
+2,246237_at,T,F,AT4G36390,AT4G36390,Methylthiotransferase,0.57272793,0.534461251
+2,246240_at,T,F,AT4G37130,AT4G37130,hydroxyproline-rich glycoprotein family protein,0.545294263,0.545682931
+2,246272_at,T,F,AT4G37150,MES9|ATMES9,methyl esterase 9,0.651040291,0.667318982
+2,246286_at,T,F,AT1G31910,AT1G31910,GHMP kinase family protein,0.527164183,0.559796167
+2,246300_at,T,F,AT3G51830,SAC8|ATG5,SAC domain-containing protein 8,0.654594624,0.662357153
+2,246313_at,T,F,AT1G31920,AT1G31920,Tetratricopeptide repeat (TPR)-like superfamily protein,0.581770044,0.524463088
+2,246346_at,T,F,AT3G56810,AT3G56810,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 14 Blast hits to 14 proteins in 7 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 14; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.629387085,0.655680356
+2,246373_at,T,F,AT1G51860,AT1G51860,Leucine-rich repeat protein kinase family protein,0.503195026,0.555866382
+2,246392_at,F,NA,AT1G58120,AT1G58120,BEST Arabidopsis thaliana protein match is: methyltransferases (TAIR:AT5G01710.1); Has 93 Blast hits to 93 proteins in 15 species: Archae - 0; Bacteria - 0; Metazoa - 1; Fungi - 0; Plants - 92; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.713180698,0.588824377
+2,246411_at,T,F,AT1G57770,AT1G57770,FAD/NAD(P)-binding oxidoreductase family protein,0.50237268,0.604528093
+2,246440_at,T,F,AT5G17650,AT5G17650,glycine/proline-rich protein,0.537134836,0.501313724
+2,246441_at,T,F,AT5G17560,AT5G17560,BolA-like family protein,0.512854928,0.520895278
+2,246454_at,T,F,AT5G16710,DHAR3,dehydroascorbate reductase 1,0.537372458,0.561892894
+2,246483_at,T,F,AT5G16000,NIK1,NSP-interacting kinase 1,0.65478028,0.711903682
+2,246487_at,T,F,AT5G16030,AT5G16030,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G02500.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.622707702,0.512256947
+2,246492_at,T,F,AT5G16140,AT5G16140,Peptidyl-tRNA hydrolase family protein,0.549104677,0.583856676
+2,246493_at,T,F,AT5G16180,CRS1|ATCRS1,ortholog of maize chloroplast splicing factor CRS1,0.500536578,0.521434904
+2,246536_at,T,F,AT5G15920,SMC5,structural maintenance of chromosomes 5,0.562388588,0.529782037
+2,246547_at,T,F,AT5G14970,AT5G14970,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G14910.1); Has 579 Blast hits to 397 proteins in 95 species: Archae - 0; Bacteria - 294; Metazoa - 0; Fungi - 0; Plants - 86; Viruses - 0; Other Eukaryotes - 199 (source: NCBI BLink).,0.50638826,0.612806116
+2,246548_at,T,F,AT5G14910,AT5G14910,Heavy metal transport/detoxification superfamily protein,0.562900343,0.556822934
+2,246582_at,T,F,AT1G31750,AT1G31750,proline-rich family protein,0.718917275,0.52744181
+2,246596_at,T,F,AT5G14740,BETA CA2|CA2|CA18,carbonic anhydrase 2,0.521761299,0.573212421
+2,246611_at,T,F,AT5G35330,ATMBD2|MBD02|MBD2,methyl-CPG-binding domain protein 02,0.510440896,0.542969621
+2,246613_at,T,F,AT5G35360,CAC2,acetyl Co-enzyme a carboxylase biotin carboxylase subunit,0.53964203,0.655414941
+2,246630_at,NA,NA,NA,NA,NA,0.629051214,0.528803189
+2,246631_at,T,F,AT1G50740,AT1G50740,Transmembrane proteins 14C,0.570956503,0.567006752
+2,246644_at,T,F,AT5G35100,AT5G35100,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,0.508759058,0.640157443
+2,246665_s_at,F,NA,AT5G34820,AT5G34820,similar to unknown protein [Arabidopsis thaliana] (TAIR:AT5G20770.1); similar to hypothetical protein 40.t00047 [Brassica oleracea] (GB:ABD65162.1),0.508042731,0.656218666
+2,246673_at,T,F,AT5G30510,ARRPS1|RPS1,ribosomal protein S1,0.51566089,0.586431942
+2,246682_at,T,F,AT5G33290,XGD1,xylogalacturonan deficient 1,0.700987934,0.531881159
+2,246768_at,F,NA,AT5G27400,AT5G27400,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.524515615,0.738514249
+2,246860_at,T,F,AT5G25840,AT5G25840,Protein of unknown function (DUF1677),0.559170348,0.504512947
+2,246861_at,T,F,AT5G25890,IAA28|IAR2,indole-3-acetic acid inducible 28,0.643183718,0.510305371
+2,246886_at,T,F,AT5G26240,ATCLC-D|CLC-D,chloride channel D,0.594135145,0.501842519
+2,246912_at,T,F,AT5G25820,AT5G25820,Exostosin family protein,0.568567874,0.537056442
+2,246952_at,T,F,AT5G04820,OFP13|ATOFP13,ovate family protein 13,0.55359274,0.748167976
+2,246957_at,T,F,AT5G24670,AT5G24670,Cytidine/deoxycytidylate deaminase family protein,0.645966103,0.55452404
+2,246995_at,T,F,AT5G67470,ATFH6|FH6,formin homolog 6,0.508061179,0.528936962
+2,247001_at,T,F,AT5G67330,ATNRAMP4|NRAMP4,natural resistance associated macrophage protein 4,0.670434828,0.708082926
+2,247019_at,T,F,AT5G67010,AT5G67010,Integrase-type DNA-binding superfamily protein,0.516972817,0.517486247
+2,247057_at,T,F,AT5G66770,AT5G66770,GRAS family transcription factor,0.672941921,0.642679532
+2,247079_at,T,F,AT5G66055,AKRP|EMB16|EMB2036,ankyrin repeat protein,0.574361741,0.561616323
+2,247095_at,T,F,AT5G66400,RAB18|ATDI8,Dehydrin family protein,0.522714695,0.804552282
+2,247113_at,T,F,AT5G65960,AT5G65960,GTP binding,0.574114639,0.564406614
+2,247114_at,T,F,AT5G65910,AT5G65910,BSD domain-containing protein,0.54358228,0.583660403
+2,247128_at,T,F,AT5G66110,AT5G66110,Heavy metal transport/detoxification superfamily protein,0.554683186,0.543258395
+2,247138_at,T,F,AT5G66120,AT5G66120,"3-dehydroquinate synthase, putative",0.50068222,0.618169365
+2,247192_at,T,F,AT5G65360,AT5G65360,Histone superfamily protein,0.632895498,0.695432198
+2,247201_at,T,F,AT5G65220,AT5G65220,Ribosomal L29 family protein,0.537682441,0.59259756
+2,247247_at,T,F,AT5G64650,AT5G64650,Ribosomal protein L17 family protein,0.507287868,0.708781202
+2,247251_at,T,F,AT5G64740,IXR2|PRC1|E112|CESA6,cellulose synthase 6,0.560223465,0.660793975
+2,247252_at,T,F,AT5G64770,RGF9,"Encodes a root meristem growth factor (RGF).  Belongs to a family of functionally redundant homologous peptides that are secreted, tyrosine-sulfated, and expressed mainly in the stem cell area and the innermost layer of central columella cells. RGFs are required for maintenance of the root stem cell niche and transit amplifying cell proliferation.  Members of this family include: At5g60810 (RGF1), At1g13620 (RGF2), At2g04025 (RGF3), At3g30350 (RGF4), At5g51451 (RGF5), At4g16515 (RGF6), At3g02240 (RGF7), At2g03830 (RGF8) and At5g64770 (RGF9).",0.570802476,0.540596247
+2,247270_at,T,F,AT5G64220,AT5G64220,Calmodulin-binding transcription activator protein with CG-1 and Ankyrin domains,0.504316527,0.541032205
+2,247278_at,T,F,AT5G64380,AT5G64380,Inositol monophosphatase family protein,0.582840229,0.542345326
+2,247291_at,T,F,AT5G64480,AT5G64480,unknown protein; Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).,0.518525471,0.507203298
+2,247293_at,T,F,AT5G64510,AT5G64510,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 17 plant structures; EXPRESSED DURING: 10 growth stages; Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).,0.62154672,0.605387664
+2,247301_at,T,F,AT5G63920,TOP3A,topoisomerase 3alpha,0.542541545,0.718013871
+2,247384_at,T,F,AT5G63370,AT5G63370,Protein kinase superfamily protein,0.561389189,0.511014847
+2,247408_at,T,F,AT5G62760,AT5G62760,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.58540051,0.556848896
+2,247431_at,T,F,AT5G62520,SRO5,similar to RCD one 5,0.500907469,0.50974067
+2,247437_at,T,F,AT5G62490,ATHVA22B|HVA22B,HVA22 homologue B,0.549442551,0.625779178
+2,247457_at,T,F,AT5G62170,AT5G62170,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G51850.1); Has 381 Blast hits to 359 proteins in 81 species: Archae - 0; Bacteria - 16; Metazoa - 101; Fungi - 21; Plants - 99; Viruses - 3; Other Eukaryotes - 141 (source: NCBI BLink).,0.64927271,0.570217385
+2,247466_at,T,F,AT5G62090,SLK2,SEUSS-like 2,0.552134093,0.683524879
+2,247469_at,T,F,AT5G62165,AGL42,AGAMOUS-like 42,0.505441937,0.547369178
+2,247486_at,T,F,AT5G62140,AT5G62140,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 19 plant structures; EXPRESSED DURING: 13 growth stages; Has 60 Blast hits to 60 proteins in 24 species: Archae - 0; Bacteria - 14; Metazoa - 0; Fungi - 0; Plants - 45; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).,0.528161651,0.55524917
+2,247519_at,T,F,AT5G61430,NAC100|ATNAC5|ANAC100,NAC domain containing protein 100,0.507972053,0.545576007
+2,247563_at,T,F,AT5G61130,PDCB1,plasmodesmata callose-binding protein 1,0.644588386,0.525644107
+2,247565_at,T,F,AT5G61150,VIP4,leo1-like family protein,0.502445936,0.532894758
+2,247574_at,F,NA,AT5G61230,AT5G61230,Ankyrin repeat family protein,0.706012184,0.592735958
+2,247606_at,T,F,AT5G61000,ATRPA70D|RPA70D,Replication factor-A protein 1-related,0.596845681,0.746236587
+2,247627_at,T,F,AT5G60360,AALP|SAG2|ALP,aleurain-like protease,0.704190564,0.614532205
+2,247642_at,T,F,AT5G60590,AT5G60590,DHBP synthase RibB-like alpha/beta domain,0.57410378,0.533372249
+2,247650_at,T,F,AT5G59960,AT5G59960,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: nucleus; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.504484486,0.674089464
+2,247651_at,T,F,AT5G59870,HTA6,histone H2A 6,0.597669046,0.704326041
+2,247673_at,T,F,AT5G60230,SEN2|ATSEN2,splicing endonuclease 2,0.637064638,0.619187242
+2,247709_at,T,F,AT5G59250,AT5G59250,Major facilitator superfamily protein,0.51795275,0.587736938
+2,247712_at,T,F,AT5G59300,ATUBC7|UBC7,ubiquitin carrier protein 7,0.596384657,0.539118788
+2,247745_at,T,F,AT5G59030,COPT1,copper transporter 1,0.519563652,0.630172005
+2,247750_at,T,F,AT5G58950,AT5G58950,Protein kinase superfamily protein,0.515508941,0.812583882
+2,247775_at,T,F,AT5G58690,PLC5|ATPLC5,phosphatidylinositol-speciwc phospholipase C5,0.643664484,0.520239088
+2,247779_at,T,F,AT5G58760,DDB2,damaged DNA binding 2,0.511314198,0.521678446
+2,247808_at,T,F,AT5G58190,ECT10,evolutionarily conserved C-terminal region 10,0.502143661,0.564012171
+2,247816_at,T,F,AT5G58260,AT5G58260,"oxidoreductases, acting on NADH or NADPH, quinone or similar compound as acceptor",0.528895647,0.565537277
+2,247818_at,T,F,AT5G58370,AT5G58370,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.618351743,0.650326526
+2,247847_at,T,F,AT5G58110,AT5G58110,chaperone binding;ATPase activators,0.565909756,0.542520608
+2,247854_at,T,F,AT5G58200,AT5G58200,Calcineurin-like metallo-phosphoesterase superfamily protein,0.654122264,0.644372597
+2,247862_at,T,F,AT5G58250,AT5G58250,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: thylakoid, chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF2488 (InterPro:IPR019616); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",0.534346498,0.575152592
+2,247918_at,T,F,AT5G57610,AT5G57610,Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain,0.534715246,0.757389617
+2,247936_at,T,F,AT5G57030,LUT2,Lycopene beta/epsilon cyclase protein,0.550560513,0.562926011
+2,247946_at,T,F,AT5G57180,CIA2,chloroplast import apparatus 2,0.604553408,0.534987662
+2,247957_at,T,F,AT5G57050,ABI2|AtABI2,Protein phosphatase 2C family protein,0.683328193,0.618487648
+2,247992_at,T,F,AT5G56520,AT5G56520,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G55365.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.51832355,0.761377183
+2,248026_at,T,F,AT5G55710,AT5G55710,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; BEST Arabidopsis thaliana protein match is: Uncharacterised conserved protein ycf60 (TAIR:AT2G47840.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",0.553939491,0.589710881
+2,248043_s_at,F,NA,AT5G56010,AtHsp90-3|AtHsp90.3|Hsp81.3|HSP81-3,heat shock protein 81-3,0.500436248,0.577455577
+2,248063_at,T,F,AT5G55550,AT5G55550,RNA-binding (RRM/RBD/RNP motifs) family protein,0.615011095,0.51555231
+2,248064_at,NA,NA,NA,NA,NA,0.530524699,0.502891183
+2,248152_at,T,F,AT5G54260,MRE11|ATMRE11,DNA repair and meiosis protein (Mre11),0.650246639,0.567576719
+2,248174_at,T,F,AT5G54600,AT5G54600,Translation protein SH3-like family protein,0.580945811,0.542205323
+2,248177_at,T,F,AT5G54630,AT5G54630,zinc finger protein-related,0.614957107,0.526798785
+2,248179_at,T,F,AT5G54380,THE1,protein kinase family protein,0.646674507,0.638418426
+2,248187_at,T,F,AT5G53940,AT5G53940,Yippee family putative zinc-binding protein,0.523141492,0.529053317
+2,248193_at,T,F,AT5G54080,HGO,"homogentisate 1,2-dioxygenase",0.716345013,0.603945916
+2,248197_at,T,F,AT5G54190,PORA,protochlorophyllide oxidoreductase A,0.531395979,0.554682201
+2,248223_at,T,F,AT5G53620,AT5G53620,unknown protein; INVOLVED IN: biological_process unknown; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; Has 28929 Blast hits to 19542 proteins in 1425 species: Archae - 211; Bacteria - 3079; Metazoa - 14558; Fungi - 2157; Plants - 966; Viruses - 80; Other Eukaryotes - 7878 (source: NCBI BLink).,0.635922875,0.608042668
+2,248224_at,T,F,AT5G53490,AT5G53490,Tetratricopeptide repeat (TPR)-like superfamily protein,0.535905475,0.581290632
+2,248244_at,T,F,AT5G53635,AT5G53635,F-box/RNI-like/FBD-like domains-containing protein,0.526675926,0.500565303
+2,248251_at,T,F,AT5G53220,AT5G53220,unknown protein; Has 3099 Blast hits to 2528 proteins in 332 species: Archae - 2; Bacteria - 245; Metazoa - 1059; Fungi - 555; Plants - 177; Viruses - 49; Other Eukaryotes - 1012 (source: NCBI BLink).,0.682114652,0.577034064
+2,248255_at,T,F,AT5G53350,CLPX,CLP protease regulatory subunit X,0.72066879,0.578457811
+2,248285_at,T,F,AT5G52960,AT5G52960,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3143 (InterPro:IPR021489); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.597407581,0.538178864
+2,248287_at,T,F,AT5G52970,AT5G52970,thylakoid lumen 15.0 kDa protein,0.59538574,0.50786967
+2,248298_at,T,F,AT5G53110,AT5G53110,RING/U-box superfamily protein,0.537139908,0.512309381
+2,248299_at,T,F,AT5G53080,AT5G53080,Tetratricopeptide repeat (TPR)-like superfamily protein,0.592005805,0.55342315
+2,248313_at,T,T,AT5G52580,AT5G52580,RabGAP/TBC domain-containing protein,0.64833058,0.609395614
+2,248329_at,T,F,AT5G52780,AT5G52780,Protein of unknown function (DUF3464),0.563295731,0.550650235
+2,248341_at,T,F,AT5G52220,AT5G52220,CONTAINS InterPro DOMAIN/s: Chromosome transmission fidelity protein 8 (InterPro:IPR018607); Has 127 Blast hits to 127 proteins in 63 species: Archae - 0; Bacteria - 0; Metazoa - 70; Fungi - 17; Plants - 31; Viruses - 0; Other Eukaryotes - 9 (source: NCBI BLink).,0.662183001,0.505399862
+2,248348_at,T,F,AT5G52190,AT5G52190,Sugar isomerase (SIS) family protein,0.572301268,0.549659279
+2,248352_at,T,F,AT5G52300,RD29B|LTI65,CAP160 protein,0.54459518,0.781951801
+2,248387_at,T,F,AT5G51960,AT5G51960,CONTAINS InterPro DOMAIN/s: Complex 1 LYR protein (InterPro:IPR008011); Has 45 Blast hits to 45 proteins in 14 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 45; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.607360537,0.65630185
+2,248399_at,T,F,AT5G52010,AT5G52010,C2H2-like zinc finger protein,0.546365566,0.514715016
+2,248420_at,T,F,AT5G51560,AT5G51560,Leucine-rich repeat protein kinase family protein,0.536091091,0.709029126
+2,248421_at,T,F,AT5G51510,AT5G51510,unknown protein; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF1352 (InterPro:IPR009787); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.534143113,0.505198401
+2,248445_at,T,F,AT5G51170,AT5G51170,unknown protein; CONTAINS InterPro DOMAIN/s: Uncharacterised protein family UPF0406 (InterPro:IPR019146); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.539231984,0.679573308
+2,248449_at,T,F,AT5G51110,AT5G51110,Transcriptional coactivator/pterin dehydratase,0.551612312,0.55211613
+2,248491_at,T,F,AT5G51010,AT5G51010,Rubredoxin-like superfamily protein,0.522819003,0.575649858
+2,248505_at,T,F,AT5G50360,AT5G50360,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G48510.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.638502424,0.690880798
+2,248507_at,T,F,AT5G50420,AT5G50420,O-fucosyltransferase family protein,0.726683175,0.511779698
+2,248526_at,T,T,AT5G50740,AT5G50740,Heavy metal transport/detoxification superfamily protein,0.539025753,0.649320168
+2,248527_at,T,T,AT5G50740,AT5G50740,Heavy metal transport/detoxification superfamily protein,0.598077516,0.608229688
+2,248538_at,T,F,AT5G50110,AT5G50110,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.521836906,0.571115234
+2,248553_at,T,F,AT5G50170,AT5G50170,C2 calcium/lipid-binding and GRAM domain containing protein,0.562256444,0.635540322
+2,248566_s_at,F,NA,AT5G49740,ATFRO7|FRO7,ferric reduction oxidase 7,0.551140658,0.549400095
+2,248591_at,T,F,AT5G49650,XK2|XK-2,xylulose kinase-2,0.576669649,0.661723458
+2,248597_at,T,F,AT5G49160,MET2|MET1|DDM2|DMT01|DMT1|METI,methyltransferase 1,0.593062752,0.632194313
+2,248669_at,T,F,AT5G48730,AT5G48730,Pentatricopeptide repeat (PPR) superfamily protein,0.51981115,0.532370665
+2,248694_at,T,F,AT5G48340,AT5G48340,unknown protein; Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.532610263,0.574590978
+2,248696_at,T,F,AT5G48360,AT5G48360,Actin-binding FH2 (formin homology 2) family protein,0.509010974,0.733226013
+2,248713_at,T,F,AT5G48180,NSP5,nitrile specifier protein 5,0.611829548,0.683234944
+2,248748_at,T,F,AT5G47840,AMK2,adenosine monophosphate kinase,0.59426981,0.543139527
+2,248772_at,T,F,AT5G47800,AT5G47800,Phototropic-responsive NPH3 family protein,0.51747004,0.512226709
+2,248776_at,T,F,AT5G47900,AT5G47900,Protein of unknown function (DUF1624),0.528808898,0.595201584
+2,248817_at,T,F,AT5G47020,AT5G47020,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G11700.2); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.510840883,0.513624882
+2,248853_at,T,F,AT5G46570,BSK2,BR-signaling kinase 2,0.513880191,0.57176898
+2,248870_at,T,F,AT5G46710,AT5G46710,PLATZ transcription factor family protein,0.575014789,0.538789751
+2,248873_at,T,F,AT5G46450,AT5G46450,Disease resistance protein (TIR-NBS-LRR class) family,0.508124481,0.549802747
+2,248889_at,T,F,AT5G46230,AT5G46230,"Protein of unknown function, DUF538",0.517921242,0.522482529
+2,248890_at,T,F,AT5G46270,AT5G46270,Disease resistance protein (TIR-NBS-LRR class) family,0.516655426,0.576841719
+2,248896_at,T,F,AT5G46350,ATWRKY8|WRKY8,WRKY DNA-binding protein 8,0.570312018,0.613428067
+2,248899_at,T,F,AT5G46390,AT5G46390,Peptidase S41 family protein,0.52633429,0.546862238
+2,248903_at,T,F,AT5G46290,KAS1|KAS I,3-ketoacyl-acyl carrier protein synthase I,0.61684283,0.681821328
+2,248906_at,T,F,AT5G46420,AT5G46420,16S rRNA processing protein RimM family,0.556978022,0.539463987
+2,248909_at,T,F,AT5G45810,SnRK3.5|CIPK19,CBL-interacting protein kinase 19,0.542698577,0.511545476
+2,248914_at,T,F,AT5G45750,RABA1c|AtRABA1c,RAB GTPase homolog A1C,0.528147321,0.739966519
+2,248920_at,T,F,AT5G45930,CHLI2|CHL I2|CHLI-2,magnesium chelatase i2,0.60577384,0.504965458
+2,248940_at,T,F,AT5G45400,RPA70C|ATRPA70C,Replication factor-A protein 1-related,0.53429421,0.524444934
+2,248950_at,T,F,AT5G45390,CLPP4|NCLPP4,CLP protease P4,0.580313354,0.516001222
+2,248961_at,T,F,AT5G45650,AT5G45650,subtilase family protein,0.581009499,0.515697093
+2,248962_at,T,F,AT5G45680,ATFKBP13|FKBP13,FK506-binding protein 13,0.575831834,0.535909448
+2,248975_at,T,F,AT5G45040,AT5G45040,Cytochrome c,0.585309719,0.522260476
+2,248977_at,T,F,AT5G45020,AT5G45020,Glutathione S-transferase family protein,0.570507237,0.720063729
+2,248985_at,T,F,AT5G45160,AT5G45160,Root hair defective 3 GTP-binding protein (RHD3),0.725753394,0.56659919
+2,249028_at,T,F,AT5G44740,POLH,Y-family DNA polymerase H,0.584495867,0.53064414
+2,249035_at,T,F,AT5G44190,ATGLK2|GPRI2|GLK2,GOLDEN2-like 2,0.511763495,0.570851423
+2,249067_at,T,F,AT5G43960,AT5G43960,Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain,0.551458785,0.729230954
+2,249073_at,T,F,AT5G44020,AT5G44020,"HAD superfamily, subfamily IIIB acid phosphatase",0.670258893,0.53350749
+2,249076_at,T,F,AT5G43970,TOM9-2|ATTOM22-V|TOM22-V,translocase of outer membrane 22-V,0.526524722,0.807879017
+2,249095_at,T,F,AT5G43900,XI-6|ATMYA2|XI-2|MYA2,myosin 2,0.53044336,0.547021539
+2,249120_at,T,F,AT5G43750,NDH18,NAD(P)H dehydrogenase 18,0.545105714,0.550845758
+2,249129_at,T,F,AT5G43080,CYCA3;1,Cyclin A3;1,0.704855661,0.550128454
+2,249133_at,T,F,AT5G43130,TAF4B|TAF4,TBP-associated factor 4,0.527228718,0.740391878
+2,249136_at,T,F,AT5G43180,AT5G43180,"Protein of unknown function, DUF599",0.58184049,0.577585843
+2,249145_at,T,F,AT5G43280,DCI1|ATDCI1,"delta(3,5),delta(2,4)-dienoyl-CoA isomerase 1",0.755043545,0.635975364
+2,249158_at,T,F,AT5G43430,ETFBETA,electron transfer flavoprotein beta,0.723667029,0.520090574
+2,249230_at,T,F,AT5G42070,AT5G42070,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",0.571730651,0.537226428
+2,249259_at,T,F,AT5G41660,AT5G41660,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G44430.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.544527641,0.52219934
+2,249276_at,T,F,AT5G41880,POLA3|POLA4,DNA primases;DNA primases,0.623260953,0.571382337
+2,249282_at,T,F,AT5G41760,AT5G41760,Nucleotide-sugar transporter family protein,0.754230235,0.564689907
+2,249298_at,T,F,AT5G41330,AT5G41330,BTB/POZ domain with WD40/YVTN repeat-like protein,0.568056244,0.721288465
+2,249307_s_at,F,NA,AT5G41360,XPB2|ATXPB2,homolog of Xeroderma pigmentosum complementation group B 2,0.611576218,0.535769762
+2,249308_at,T,F,AT5G41350,AT5G41350,RING/U-box superfamily protein,0.558680858,0.536335845
+2,249318_at,T,F,AT5G40870,ATUK/UPRT1|UK/UPRT1|UKL1,uridine kinase/uracil phosphoribosyltransferase 1,0.500576638,0.584206782
+2,249340_at,T,F,AT5G41140,AT5G41140,Myosin heavy chain-related protein,0.712997047,0.532331196
+2,249351_at,T,F,AT5G40440,MKK3|ATMKK3,mitogen-activated protein kinase kinase 3,0.578932468,0.598755464
+2,249404_at,T,F,AT5G40160,EMB506|EMB139,Ankyrin repeat family protein,0.551470204,0.554764868
+2,249421_at,T,F,AT5G39830,DEG8|DEGP8,Trypsin family protein with PDZ domain,0.55585133,0.568525936
+2,249454_at,T,F,AT5G39520,AT5G39520,Protein of unknown function (DUF1997),0.522885138,0.711676154
+2,249480_s_at,F,NA,AT5G38990,AT5G38990,Malectin/receptor-like protein kinase family protein,0.502509425,0.53280299
+2,249494_at,T,F,AT5G39050,AT5G39050,HXXXD-type acyl-transferase family protein,0.666553755,0.570230265
+2,249510_at,T,F,AT5G38510,AT5G38510,Rhomboid-related intramembrane serine protease family protein,0.575260313,0.548134879
+2,249511_at,T,F,AT5G38500,AT5G38500,Domain of unknown function (DUF313),0.516290005,0.547474197
+2,249524_at,T,F,AT5G38520,AT5G38520,alpha/beta-Hydrolases superfamily protein,0.511349137,0.592184732
+2,249537_at,T,F,AT5G38830,AT5G38830,"Cysteinyl-tRNA synthetase, class Ia family protein",0.54233408,0.533010736
+2,249546_at,T,F,AT5G38150,PMI15,Plant protein of unknown function (DUF827),0.5739393,0.524051399
+2,249550_at,T,F,AT5G38210,AT5G38210,Protein kinase family protein,0.532749979,0.549641723
+2,249551_at,T,F,AT5G38220,AT5G38220,alpha/beta-Hydrolases superfamily protein,0.642427501,0.533493976
+2,249563_at,T,F,AT5G38360,AT5G38360,alpha/beta-Hydrolases superfamily protein,0.516314053,0.582167769
+2,249567_at,T,F,AT5G38020,AT5G38020,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.509726437,0.57974295
+2,249580_at,T,F,AT5G37740,AT5G37740,Calcium-dependent lipid-binding (CaLB domain) family protein,0.522927494,0.510464382
+2,249583_at,T,F,AT5G37770,TCH2|CML24,EF hand calcium-binding protein family,0.586859712,0.70522405
+2,249600_s_at,F,NA,AT5G37940,AT5G37940,Zinc-binding dehydrogenase family protein,0.501987335,0.519532043
+2,249625_at,T,F,AT5G37480,AT5G37480,unknown protein; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.50199613,0.539363287
+2,249641_at,T,F,AT5G36950,DegP10,DegP protease 10,0.689980504,0.568011942
+2,249652_at,T,F,AT5G37070,AT5G37070,"Protein of unknown function, DUF538",0.644628342,0.669369541
+2,249658_s_at,F,NA,AT5G36700,ATPGLP1|PGLP1,2-phosphoglycolate phosphatase 1,0.510002926,0.590285048
+2,249659_s_at,F,NA,AT5G36800,AT5G36800,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: N-terminal protein myristoylation; LOCATED IN: endomembrane system; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G36710.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.644247805,0.529234604
+2,249685_at,NA,NA,NA,NA,NA,0.614741264,0.528475927
+2,249691_at,T,F,AT5G36170,HCF109|ATPRFB,high chlorophyll fluorescent 109,0.537324389,0.607212609
+2,249694_at,T,F,AT5G35790,G6PD1,glucose-6-phosphate dehydrogenase 1,0.572698899,0.571632687
+2,249703_at,T,F,AT5G35560,AT5G35560,DENN (AEX-3) domain-containing protein,0.619548489,0.654203527
+2,249717_at,T,F,AT5G35730,AT5G35730,EXS (ERD1/XPR1/SYG1) family protein,0.625190481,0.540189505
+2,249718_at,T,F,AT5G35740,AT5G35740,Carbohydrate-binding X8 domain superfamily protein,0.509534912,0.797686772
+2,249735_at,T,F,AT5G24450,AT5G24450,"Transcription factor IIIC, subunit 5",0.512987667,0.676486742
+2,249809_at,T,F,AT5G23910,AT5G23910,ATP binding microtubule motor family protein,0.510824415,0.581681083
+2,249818_at,T,F,AT5G23860,TUB8,tubulin beta 8,0.57895073,0.769073208
+2,249830_at,T,F,AT5G23300,PYRD,pyrimidine d,0.516388757,0.857223489
+2,249836_at,T,F,AT5G23420,HMGB6,high-mobility group box 6,0.599872231,0.562831364
+2,249846_at,T,F,AT5G23630,MIA|PDR2,phosphate deficiency response 2,0.579367094,0.566966326
+2,249861_at,T,F,AT5G22875,AT5G22875,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.554702192,0.579972359
+2,249876_at,T,F,AT5G23060,CaS,calcium sensing receptor,0.511471007,0.564218069
+2,249882_at,T,F,AT5G22890,AT5G22890,C2H2 and C2HC zinc fingers superfamily protein,0.502538487,0.528247444
+2,249899_at,T,F,AT5G22620,AT5G22620,phosphoglycerate/bisphosphoglycerate mutase family protein,0.507003056,0.582107417
+2,249927_at,T,F,AT5G19220,ADG2|APL1,ADP glucose pyrophosphorylase large subunit 1,0.535963498,0.583292037
+2,249944_at,T,F,AT5G22290,NAC089|anac089,NAC domain containing protein 89,0.675151757,0.714822312
+2,249946_at,T,F,AT5G19170,AT5G19170,Protein of Unknown Function (DUF239),0.536627599,0.518484736
+2,249952_at,T,F,AT5G18950,AT5G18950,Tetratricopeptide repeat (TPR)-like superfamily protein,0.580018704,0.527786502
+2,249985_at,T,F,AT5G18500,AT5G18500,Protein kinase superfamily protein,0.636909526,0.653858701
+2,249996_at,T,F,AT5G18600,AT5G18600,Thioredoxin superfamily protein,0.587344592,0.503333266
+2,250006_at,T,F,AT5G18660,PCB2,NAD(P)-binding Rossmann-fold superfamily protein,0.605708699,0.510622137
+2,250015_at,T,F,AT5G18070,DRT101,phosphoglucosamine mutase-related,0.540299283,0.540614818
+2,250028_at,T,F,AT5G18130,AT5G18130,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G03870.2); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).,0.609046002,0.700266704
+2,250084_at,T,F,AT5G17240,SDG40,SET domain group 40,0.618665936,0.59395658
+2,250088_at,T,F,AT5G17290,APG5|ATATG5|ATG5,autophagy protein Apg5 family,0.539577231,0.589628195
+2,250102_at,T,F,AT5G16590,LRR1,Leucine-rich repeat protein kinase family protein,0.643684391,0.720977425
+2,250105_at,T,F,AT5G16630,ATRAD4|RAD4,DNA repair protein Rad4 family,0.73320472,0.579265693
+2,250110_at,T,F,AT5G15350,AtENODL17|ENODL17,early nodulin-like protein 17,0.540110176,0.68962719
+2,250116_at,T,F,AT5G16430,AT5G16430,Cysteine/Histidine-rich C1 domain family protein,0.561164374,0.501723804
+2,250128_at,T,F,AT5G16540,ZFN3,zinc finger nuclease 3,0.532667586,0.551345559
+2,250130_at,T,F,AT5G16510,AT5G16510,"Alpha-1,4-glucan-protein synthase family protein",0.557880786,0.549148714
+2,250133_at,T,F,AT5G16400,TRXF2|ATF2,thioredoxin F2,0.519503198,0.603953947
+2,250138_at,T,F,AT5G14610,AT5G14610,DEAD box RNA helicase family protein,0.718398287,0.60148238
+2,250146_at,T,F,AT5G14660,ATDEF2|DEF2|PDF1B,peptide deformylase 1B,0.581678065,0.515710171
+2,250147_at,T,F,AT5G14600,AT5G14600,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.585852863,0.680375582
+2,250170_at,T,F,AT5G14260,AT5G14260,Rubisco methyltransferase family protein,0.567114873,0.548646061
+2,250190_at,T,F,AT5G14320,AT5G14320,Ribosomal protein S13/S18 family,0.525095545,0.598928362
+2,250211_at,T,F,AT5G13880,AT5G13880,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G47920.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.792638664,0.518341333
+2,250243_at,T,F,AT5G13630,ABAR|CHLH|GUN5|CCH|CCH1,"magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH)",0.506857126,0.571593351
+2,250291_at,T,F,AT5G13280,AK|AK1|AK-LYS1,aspartate kinase 1,0.541531927,0.598930888
+2,250294_at,T,F,AT5G13380,AT5G13380,Auxin-responsive GH3 family protein,0.575309297,0.507714883
+2,250320_at,T,F,AT5G12840,EMB2220|ATHAP2A|NF-YA1|HAP2A,"nuclear factor Y, subunit A1",0.665636128,0.642361655
+2,250333_at,T,F,AT5G11690,ATTIM17-3|TIM17-3,translocase inner membrane subunit 17-3,0.598272612,0.705677816
+2,250370_at,T,F,AT5G11430,AT5G11430,SPOC domain / Transcription elongation factor S-II protein,0.512295221,0.658266499
+2,250403_at,T,F,AT5G10920,AT5G10920,L-Aspartase-like family protein,0.579331871,0.593155257
+2,250408_at,T,F,AT5G10930,CIPK5|SnRK3.24,CBL-interacting protein kinase 5,0.531929049,0.553800343
+2,250434_at,T,F,AT5G10390,AT5G10390,Histone superfamily protein,0.748256165,0.573993147
+2,250448_at,T,F,AT5G10820,AT5G10820,Major facilitator superfamily protein,0.503585979,0.604542079
+2,250461_at,T,F,AT5G10010,AT5G10010,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: nucleolus; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G64910.1); Has 33260 Blast hits to 16857 proteins in 1270 species: Archae - 88; Bacteria - 3040; Metazoa - 11915; Fungi - 3137; Plants - 1371; Viruses - 424; Other Eukaryotes - 13285 (source: NCBI BLink).,0.613619019,0.787656406
+2,250465_at,T,F,AT5G10070,AT5G10070,RNase L inhibitor protein-related,0.5020444,0.654454093
+2,250470_at,T,F,AT5G10160,AT5G10160,Thioesterase superfamily protein,0.632829045,0.5473034
+2,250516_at,T,F,AT5G09620,AT5G09620,Octicosapeptide/Phox/Bem1p family protein,0.598814602,0.685292957
+2,250526_at,T,F,AT5G08570,AT5G08570,Pyruvate kinase family protein,0.598553449,0.508714832
+2,250528_at,T,F,AT5G08600,AT5G08600,U3 ribonucleoprotein (Utp) family protein,0.804731126,0.518971677
+2,250560_at,T,F,AT5G08020,RPA70B|ATRPA70B,RPA70-kDa subunit B,0.626784794,0.700557496
+2,250563_at,T,F,AT5G08050,AT5G08050,Protein of unknown function (DUF1118),0.527043095,0.574882689
+2,250613_at,T,F,AT5G07240,IQD24,IQ-domain 24,0.588712895,0.513523726
+2,250644_at,T,F,AT5G06750,AT5G06750,Protein phosphatase 2C family protein,0.51023007,0.610796263
+2,250655_at,T,F,AT5G06960,OBF5|TGA5,OCS-element binding factor 5,0.614732243,0.510927966
+2,250681_at,NA,NA,NA,NA,NA,0.58082954,0.65167923
+2,250694_at,T,F,AT5G06710,HAT14,homeobox from Arabidopsis thaliana,0.567467592,0.510002953
+2,250710_at,T,F,AT5G06100,ATMYB33|MYB33,myb domain protein 33,0.559036311,0.628688701
+2,250733_at,T,F,AT5G06290,2-Cys Prx B|2CPB,2-cysteine peroxiredoxin B,0.629013921,0.503974075
+2,250739_at,T,F,AT5G05740,ATEGY2|EGY2,ethylene-dependent gravitropism-deficient and yellow-green-like 2,0.552820578,0.528752034
+2,250750_at,T,F,AT5G05870,UGT76C1,UDP-glucosyl transferase 76C1,0.565066423,0.665652639
+2,250762_at,T,F,AT5G05990,AT5G05990,Mitochondrial glycoprotein family protein,0.656353256,0.623571231
+2,250764_at,T,F,AT5G05960,AT5G05960,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.647206089,0.504749853
+2,250774_at,T,F,AT5G05450,AT5G05450,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.510483134,0.774069726
+2,250820_at,T,F,AT5G05160,AT5G05160,Leucine-rich repeat protein kinase family protein,0.529955648,0.567225875
+2,250831_at,T,F,AT5G04920,AT5G04920,EAP30/Vps36 family protein,0.542666067,0.746762822
+2,250843_at,T,F,AT5G04430,BTR1|BTR1L|BTR1S,binding to TOMV RNA 1L (long form),0.609880777,0.763657778
+2,250846_at,T,F,AT5G04590,SIR,sulfite reductase,0.713821717,0.516805276
+2,250885_at,T,F,AT5G03910,ATH12|ATATH12,ABC2 homolog 12,0.505411485,0.618424223
+2,250929_at,T,F,AT5G03290,IDH-V,isocitrate dehydrogenase V,0.550731523,0.525240724
+2,250938_at,T,F,AT5G03180,AT5G03180,RING/U-box superfamily protein,0.598715708,0.592007915
+2,250955_at,T,F,AT5G03190,CPUORF47,conserved peptide upstream open reading frame 47,0.585473692,0.73230274
+2,250991_at,T,F,AT5G02380,MT2B,metallothionein 2B,0.552333061,0.626597862
+2,250996_at,T,F,AT5G02530,AT5G02530,RNA-binding (RRM/RBD/RNP motifs) family protein,0.610380209,0.656338651
+2,250998_at,T,F,AT5G02620,ATANK1|ANK1,ankyrin-like1,0.509758666,0.780509717
+2,251008_at,T,F,AT5G02710,AT5G02710,unknown protein; LOCATED IN: chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Uncharacterised protein family UPF0153 (InterPro:IPR005358); Has 240 Blast hits to 240 proteins in 73 species: Archae - 10; Bacteria - 110; Metazoa - 0; Fungi - 0; Plants - 25; Viruses - 0; Other Eukaryotes - 95 (source: NCBI BLink).,0.561352309,0.546345011
+2,251011_at,T,F,AT5G02560,HTA12,histone H2A 12,0.56391208,0.621875763
+2,251036_at,T,F,AT5G02160,AT5G02160,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; Has 121 Blast hits to 121 proteins in 17 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 121; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.625171977,0.527343086
+2,251050_at,T,F,AT5G02440,AT5G02440,unknown protein; Has 71 Blast hits to 71 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 71; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.522498139,0.623985844
+2,251066_at,T,F,AT5G01880,AT5G01880,RING/U-box superfamily protein,0.538569472,0.857768715
+2,251068_at,T,F,AT5G01920,STN8,Chloroplast thylakoid protein kinase state transition 8,0.518291793,0.600092533
+2,251084_at,T,F,AT5G01520,AT5G01520,RING/U-box superfamily protein,0.554213072,0.76614449
+2,251092_at,T,F,AT5G01470,AT5G01470,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.556065211,0.629680802
+2,251100_at,T,F,AT5G01670,AT5G01670,NAD(P)-linked oxidoreductase superfamily protein,0.563479435,0.694501201
+2,251120_at,T,F,AT3G63490,AT3G63490,Ribosomal protein L1p/L10e family,0.508519185,0.599796383
+2,251143_at,T,F,AT5G01220,SQD2,sulfoquinovosyldiacylglycerol 2,0.506014236,0.590770307
+2,251153_at,T,F,AT3G63000,NPL41,NPL4-like protein 1,0.602115771,0.709293852
+2,251157_at,T,F,AT3G63140,CSP41A,chloroplast stem-loop binding protein of  41 kDa,0.500877867,0.60294975
+2,251165_at,T,F,AT3G63340,AT3G63340,Protein phosphatase 2C family protein,0.523483158,0.638441524
+2,251191_at,T,F,AT3G62590,AT3G62590,alpha/beta-Hydrolases superfamily protein,0.711589027,0.688273
+2,251193_at,T,F,AT3G62910,APG3,Peptide chain release factor 1,0.53565983,0.547618981
+2,251227_at,T,F,AT3G62700,MRP10|ATMRP10,multidrug resistance-associated protein 10,0.514306064,0.771405057
+2,251233_at,T,F,AT3G62800,DRB4,double-stranded-RNA-binding protein 4,0.657910032,0.632863357
+2,251234_s_at,F,NA,AT3G62830,UXS2|ATUXS2|AUD1,NAD(P)-binding Rossmann-fold superfamily protein,0.543690208,0.53582164
+2,251243_at,T,F,AT3G61870,AT3G61870,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast, chloroplast inner membrane, chloroplast envelope; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; Has 200 Blast hits to 200 proteins in 73 species: Archae - 0; Bacteria - 112; Metazoa - 0; Fungi - 0; Plants - 53; Viruses - 0; Other Eukaryotes - 35 (source: NCBI BLink).",0.517132009,0.602628787
+2,251259_at,T,F,AT3G62260,AT3G62260,Protein phosphatase 2C family protein,0.603634246,0.503974717
+2,251272_at,T,F,AT3G61890,ATHB-12|ATHB12|HB-12,homeobox 12,0.58947253,0.694415977
+2,251273_at,T,F,AT3G61960,AT3G61960,Protein kinase superfamily protein,0.787150683,0.534495324
+2,251274_at,T,F,AT3G61700,AT3G61700,Plant protein 1589 of unknown function,0.532227937,0.553133542
+2,251284_at,T,F,AT3G61840,AT3G61840,Protein of unknown function (DUF688),0.527693166,0.510379407
+2,251291_at,T,F,AT3G61900,AT3G61900,SAUR-like auxin-responsive protein family,0.658893113,0.588690951
+2,251299_at,T,F,AT3G61950,AT3G61950,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,0.505685097,0.533924427
+2,251329_at,T,F,AT3G61450,ATSYP73|SYP73,syntaxin of plants 73,0.590535651,0.516058118
+2,251330_at,T,F,AT3G61550,AT3G61550,RING/U-box superfamily protein,0.561968565,0.53317839
+2,251414_at,T,F,AT3G60370,AT3G60370,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.608034496,0.514167977
+2,251426_at,T,F,AT3G60180,AT3G60180,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.613863501,0.668786017
+2,251445_at,T,F,AT3G59870,AT3G59870,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G43945.1); Has 292 Blast hits to 292 proteins in 84 species: Archae - 0; Bacteria - 122; Metazoa - 0; Fungi - 0; Plants - 46; Viruses - 0; Other Eukaryotes - 124 (source: NCBI BLink).,0.515269536,0.597829313
+2,251478_at,T,F,AT3G59690,IQD13,IQ-domain 13,0.51691251,0.550216988
+2,251485_at,T,F,AT3G59550,ATSYN3|ATRAD21.2|SYN3,Rad21/Rec8-like family protein,0.830202186,0.507813298
+2,251492_at,T,F,AT3G59280,TXR1,"Protein Transporter, Pam16",0.552030936,0.54819324
+2,251497_at,T,F,AT3G59060,PIF5|PIL6,phytochrome interacting factor 3-like 6,0.501237167,0.59110034
+2,251507_at,T,F,AT3G59080,AT3G59080,Eukaryotic aspartyl protease family protein,0.537578634,0.580728678
+2,251523_at,T,F,AT3G58975,AT3G58975,pseudogene of F-box family protein,0.54199998,0.511677258
+2,251537_at,T,F,AT3G58470,AT3G58470,nucleic acid binding;methyltransferases,0.71260393,0.54766167
+2,251543_at,T,F,AT3G58770,AT3G58770,unknown protein; Has 38 Blast hits to 36 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 2; Plants - 32; Viruses - 0; Other Eukaryotes - 4 (source: NCBI BLink).,0.690785648,0.512054245
+2,251573_at,T,F,AT3G58140,AT3G58140,phenylalanyl-tRNA synthetase class IIc family protein,0.624661696,0.501950197
+2,251579_at,T,F,AT3G58170,ATBET11|BS14A|BET11|ATBS14A,BET1P/SFT1P-like protein 14A,0.597090624,0.597302352
+2,251630_at,T,F,AT3G57420,AT3G57420,Protein of unknown function (DUF288),0.515377343,0.664493427
+2,251658_at,T,F,AT3G57020,AT3G57020,Calcium-dependent phosphotriesterase superfamily protein,0.537667396,0.756396129
+2,251682_s_at,F,NA,AT5G60370,AT5G60370,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; CONTAINS InterPro DOMAIN/s: Defects-in-morphology protein 1-like, mitochondrial (InterPro:IPR019190); BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G57110.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",0.501716784,0.505148313
+2,251701_at,T,F,AT3G56650,AT3G56650,Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein,0.585910226,0.540016687
+2,251721_s_at,F,NA,AT3G56450,ALPHA-SNAP1,alpha-soluble NSF attachment protein 1,0.644026179,0.503173083
+2,251730_at,T,F,AT3G56330,AT3G56330,"N2,N2-dimethylguanosine tRNA methyltransferase",0.512782787,0.505100572
+2,251741_at,T,F,AT3G56040,UGP3,UDP-glucose pyrophosphorylase 3,0.530828662,0.589815031
+2,251744_at,T,F,AT3G56010,AT3G56010,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 25 Blast hits to 25 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 25; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.524056494,0.600007215
+2,251749_at,T,F,AT3G55690,AT3G55690,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G39870.1); Has 76 Blast hits to 69 proteins in 15 species: Archae - 0; Bacteria - 0; Metazoa - 4; Fungi - 3; Plants - 69; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.592718616,0.50629684
+2,251784_at,T,F,AT3G55330,PPL1,PsbP-like protein 1,0.559653897,0.546552176
+2,251810_at,T,F,AT3G55250,AT3G55250,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, chloroplast, nucleus; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; Has 46 Blast hits to 46 proteins in 17 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 46; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).",0.511699317,0.605230557
+2,251828_at,T,F,AT3G55070,AT3G55070,LisH/CRA/RING-U-box domains-containing protein,0.681218075,0.605893028
+2,251830_at,T,F,AT3G55010,PUR5|ATPURM,"phosphoribosylformylglycinamidine cyclo-ligase, chloroplast / phosphoribosyl-aminoimidazole synthetase / AIR synthase (PUR5)",0.552263018,0.788561966
+2,251852_at,T,F,AT3G54750,AT3G54750,unknown protein; Has 145 Blast hits to 145 proteins in 60 species: Archae - 0; Bacteria - 0; Metazoa - 99; Fungi - 0; Plants - 40; Viruses - 0; Other Eukaryotes - 6 (source: NCBI BLink).,0.599184486,0.690678689
+2,251883_at,T,F,AT3G54210,AT3G54210,Ribosomal protein L17 family protein,0.535792676,0.581491927
+2,251885_at,T,F,AT3G54050,HCEF1,high cyclic electron flow 1,0.514396598,0.608174686
+2,251899_at,T,F,AT3G54400,AT3G54400,Eukaryotic aspartyl protease family protein,0.686216674,0.560195369
+2,251919_at,T,F,AT3G53800,Fes1B,Fes1B,0.501589919,0.515301193
+2,251940_at,T,F,AT3G53450,AT3G53450,Putative lysine decarboxylase family protein,0.547107959,0.591998024
+2,251959_at,T,F,AT3G53410,AT3G53410,RING/U-box superfamily protein,0.744631024,0.506961614
+2,251969_at,T,F,AT3G53130,LUT1|CYP97C1,Cytochrome P450 superfamily protein,0.606450088,0.512815773
+2,251983_at,T,F,AT3G53210,AT3G53210,nodulin MtN21 /EamA-like transporter family protein,0.51476646,0.512368717
+2,251990_at,T,F,AT3G53320,AT3G53320,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G37070.1); Has 11044 Blast hits to 5993 proteins in 551 species: Archae - 8; Bacteria - 1486; Metazoa - 4078; Fungi - 1814; Plants - 348; Viruses - 112; Other Eukaryotes - 3198 (source: NCBI BLink).,0.542569715,0.506693775
+2,251995_at,T,F,AT3G52940,ELL1|FK|HYD2,Ergosterol biosynthesis ERG4/ERG24 family,0.582215125,0.773422801
+2,252032_at,T,F,AT3G52150,AT3G52150,RNA-binding (RRM/RBD/RNP motifs) family protein,0.609612497,0.500828844
+2,252038_at,T,F,AT3G52120,AT3G52120,SWAP (Suppressor-of-White-APricot)/surp domain-containing protein / D111/G-patch domain-containing protein,0.570235341,0.503886563
+2,252067_at,T,F,AT3G51370,AT3G51370,Protein phosphatase 2C family protein,0.708553729,0.545636474
+2,252075_at,T,F,AT3G51730,AT3G51730,saposin B domain-containing protein,0.757189321,0.591829468
+2,252079_at,F,NA,AT3G51630,ATWNK5|ZIK1|WNK5,with no lysine (K) kinase 5,0.707525716,0.59395425
+2,252095_at,T,F,AT3G51000,AT3G51000,alpha/beta-Hydrolases superfamily protein,0.776649776,0.504334605
+2,252099_at,T,F,AT3G51250,AT3G51250,Senescence/dehydration-associated protein-related,0.740906205,0.616581231
+2,252104_at,T,F,AT3G51460,RHD4,Phosphoinositide phosphatase family protein,0.502309753,0.537633064
+2,252117_at,T,F,AT3G51430,YLS2|SSL5,Calcium-dependent phosphotriesterase superfamily protein,0.661121016,0.5988435
+2,252127_at,T,F,AT3G50960,PLP3a,phosducin-like protein 3 homolog,0.535864471,0.540100293
+2,252194_at,T,F,AT3G50110,PEN3|ATPEN3,PTEN 3,0.563079705,0.696844452
+2,252208_at,T,F,AT3G50380,AT3G50380,Protein of unknown function (DUF1162),0.590604483,0.6465937
+2,252231_at,T,F,AT3G49720,AT3G49720,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, Golgi apparatus, plasma membrane, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G65810.1); Has 64 Blast hits to 64 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 64; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).",0.728724803,0.639323226
+2,252247_at,T,F,AT3G49740,AT3G49740,Tetratricopeptide repeat (TPR)-like superfamily protein,0.538947803,0.636843446
+2,252248_at,T,F,AT3G49750,RLP44|AtRLP44,receptor like protein 44,0.53998748,0.581425155
+2,252334_at,T,F,AT3G48850,PHT3;2,phosphate transporter 3;2,0.520991362,0.655837323
+2,252344_s_at,F,NA,AT3G48620,AT3G48620,Outer membrane OMP85 family protein,0.579156679,0.525896844
+2,252353_at,T,F,AT3G48200,AT3G48200,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; Has 210 Blast hits to 148 proteins in 42 species: Archae - 0; Bacteria - 118; Metazoa - 0; Fungi - 0; Plants - 48; Viruses - 0; Other Eukaryotes - 44 (source: NCBI BLink).,0.537671086,0.569438585
+2,252366_at,T,F,AT3G48420,AT3G48420,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.521827252,0.587340831
+2,252368_at,T,F,AT3G48520,CYP94B3,"cytochrome P450, family 94, subfamily B, polypeptide 3",0.548335897,0.527425578
+2,252371_at,T,F,AT3G48070,AT3G48070,RING/U-box superfamily protein,0.576223667,0.626172892
+2,252372_at,T,F,AT3G48000,ALDH2B4|ALDH2A|ALDH2,aldehyde dehydrogenase 2B4,0.527833974,0.729919052
+2,252375_at,T,F,AT3G48040,ARAC8|ATRAC8|ROP10|ATROP10,RHO-related protein from plants 10,0.681739433,0.548582555
+2,252405_at,T,F,AT3G48120,AT3G48120,unknown protein; Has 22990 Blast hits to 12942 proteins in 666 species: Archae - 8; Bacteria - 739; Metazoa - 13803; Fungi - 2465; Plants - 1363; Viruses - 116; Other Eukaryotes - 4496 (source: NCBI BLink).,0.623313628,0.603826529
+2,252409_at,T,F,AT3G47650,AT3G47650,DnaJ/Hsp40 cysteine-rich domain superfamily protein,0.52907489,0.581722474
+2,252416_at,T,F,AT3G47460,ATSMC2,Structural maintenance of chromosomes (SMC) family protein,0.551747163,0.60441754
+2,252437_at,T,F,AT3G47380,AT3G47380,Plant invertase/pectin methylesterase inhibitor superfamily protein,0.512506425,0.527765739
+2,252441_at,T,F,AT3G46780,PTAC16,plastid transcriptionally active 16,0.518461012,0.609129662
+2,252442_at,T,F,AT3G46940,DUT1,DUTP-PYROPHOSPHATASE-LIKE 1,0.575601066,0.700264611
+2,252449_at,T,F,AT3G47060,ftsh7,FTSH protease 7,0.535401012,0.533752006
+2,252481_at,T,F,AT3G46630,AT3G46630,Protein of unknown function (DUF3223),0.601131648,0.579596658
+2,252483_at,T,F,AT3G46600,AT3G46600,GRAS family transcription factor,0.52282298,0.636490449
+2,252501_at,T,F,AT3G46880,AT3G46880,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 14 plant structures; EXPRESSED DURING: 9 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G59080.1); Has 51 Blast hits to 51 proteins in 8 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 51; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.722102647,0.516183608
+2,252525_at,T,F,AT3G46450,AT3G46450,SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein,0.678571024,0.712149727
+2,252548_at,T,F,AT3G45850,AT3G45850,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.761859556,0.567962839
+2,252562_s_at,F,NA,AT3G45930,AT3G45930,Histone superfamily protein,0.591269247,0.785982168
+2,252574_at,T,F,AT3G45430,AT3G45430,Concanavalin A-like lectin protein kinase family protein,0.6258822,0.669635805
+2,252588_at,T,F,AT3G45630,AT3G45630,RNA binding (RRM/RBD/RNP motifs) family protein,0.513754298,0.669376605
+2,252615_at,T,F,AT3G45230,AT3G45230,hydroxyproline-rich glycoprotein family protein,0.687236555,0.57894496
+2,252616_at,F,NA,AT3G45240,ATSNAK2|GRIK1,geminivirus rep interacting kinase 1,0.661399363,0.515438196
+2,252622_at,T,F,AT3G45310,AT3G45310,Cysteine proteinases superfamily protein,0.508223822,0.571576261
+2,252669_at,T,F,AT3G44100,AT3G44100,MD-2-related lipid recognition domain-containing protein,0.672837849,0.635794942
+2,252716_at,T,F,AT3G43920,ATDCL3|DCL3,dicer-like 3,0.61336246,0.558699072
+2,252724_at,T,F,AT3G43540,AT3G43540,Protein of unknown function (DUF1350),0.546825802,0.562276086
+2,252737_at,T,F,AT3G43220,AT3G43220,Phosphoinositide phosphatase family protein,0.582366561,0.697409874
+2,252743_at,T,F,AT3G43300,BEN1|ATMIN7,HOPM interactor 7,0.514498556,0.529117658
+2,252830_at,T,F,AT4G39850,AtABCD1|ACN2|PXA1|PED3|CTS,peroxisomal ABC transporter 1,0.528897819,0.780516907
+2,252868_at,T,F,AT4G39920,TFC C|POR,C-CAP/cofactor C-like domain-containing protein,0.581176011,0.553663192
+2,252872_at,T,F,AT4G40010,SNRK2.7|SRK2F|SNRK2-7,SNF1-related protein kinase 2.7,0.528246346,0.539933522
+2,252876_at,T,F,AT4G39970,AT4G39970,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.579930066,0.526935249
+2,252934_at,T,F,AT4G39120,HISN7|IMPL2,myo-inositol monophosphatase like 2,0.814899588,0.522108059
+2,252941_at,T,F,AT4G39280,AT4G39280,"phenylalanyl-tRNA synthetase, putative / phenylalanine--tRNA ligase, putative",0.782082898,0.581432246
+2,252945_at,T,F,AT4G39140,AT4G39140,RING/U-box superfamily protein,0.771780392,0.514553776
+2,252960_at,T,T,AT4G38760,AT4G38760,Protein of unknown function (DUF3414),0.627021164,0.554370757
+2,252981_at,T,F,AT4G38260,AT4G38260,Protein of unknown function (DUF833),0.745535951,0.50672476
+2,253000_at,T,F,AT4G38360,LAZ1,Protein of unknown function (DUF300),0.70792109,0.529672121
+2,253001_at,T,F,AT4G38490,AT4G38490,unknown protein; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.547624101,0.536576169
+2,253032_at,T,F,AT4G38200,AT4G38200,SEC7-like guanine nucleotide exchange family protein,0.633697283,0.518341694
+2,253038_at,T,F,AT4G37790,HAT22,Homeobox-leucine zipper protein family,0.601096643,0.521763933
+2,253049_at,T,F,AT4G37300,MEE59,maternal effect embryo arrest 59,0.510413466,0.5651152
+2,253072_at,T,F,AT4G37830,AT4G37830,cytochrome c oxidase-related,0.563624978,0.557188866
+2,253079_s_at,F,NA,AT4G36195,AT4G36195,Serine carboxypeptidase S28 family protein,0.611076977,0.595922404
+2,253081_at,T,F,AT4G36210,AT4G36210,Protein of unknown function (DUF726),0.718158326,0.630808097
+2,253107_at,T,F,AT4G35880,AT4G35880,Eukaryotic aspartyl protease family protein,0.640660378,0.548023188
+2,253111_at,T,F,AT4G35940,AT4G35940,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G17787.1); Has 45288 Blast hits to 24095 proteins in 1140 species: Archae - 93; Bacteria - 2895; Metazoa - 13424; Fungi - 2873; Plants - 1183; Viruses - 123; Other Eukaryotes - 24697 (source: NCBI BLink).,0.540742992,0.560594735
+2,253141_at,T,F,AT4G35440,ATCLC-E|CLC-E|CLCE,chloride channel E,0.578241757,0.555291521
+2,253154_at,T,F,AT4G35710,AT4G35710,Arabidopsis protein of unknown function (DUF241),0.52349158,0.571336407
+2,253188_at,T,F,AT4G35300,TMT2,tonoplast monosaccharide transporter2,0.565518603,0.716748051
+2,253201_at,T,F,AT4G34620,SSR16,small subunit ribosomal protein 16,0.566724793,0.52688803
+2,253208_at,T,T,AT4G34830,MRL1,Pentatricopeptide repeat (PPR) superfamily protein,0.551386179,0.559293446
+2,253223_at,T,F,AT4G35000,APX3,ascorbate peroxidase 3,0.509006392,0.652858825
+2,253231_at,T,F,AT4G34450,AT4G34450,"coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative",0.577180476,0.542344292
+2,253243_at,T,F,AT4G34560,AT4G34560,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G66440.1); Has 67 Blast hits to 66 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 67; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.553664308,0.584048917
+2,253265_at,T,F,AT4G34040,AT4G34040,RING/U-box superfamily protein,0.546402743,0.691952897
+2,253269_at,T,F,AT4G34140,AT4G34140,D111/G-patch domain-containing protein,0.52568528,0.635867804
+2,253276_at,T,F,AT4G34050,CCoAOMT1,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.583688592,0.522098708
+2,253283_at,T,F,AT4G34090,AT4G34090,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast, chloroplast stroma; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G23370.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",0.582787115,0.524781323
+2,253337_at,T,F,AT4G33470,ATHDA14|hda14,histone deacetylase 14,0.514314488,0.606376573
+2,253343_at,T,F,AT4G33540,AT4G33540,metallo-beta-lactamase family protein,0.617199345,0.649919569
+2,253391_at,T,F,AT4G32590,AT4G32590,2Fe-2S ferredoxin-like superfamily protein,0.552961394,0.581349326
+2,253416_at,T,F,AT4G33070,AT4G33070,Thiamine pyrophosphate dependent pyruvate decarboxylase family protein,0.503178558,0.518954004
+2,253489_at,T,F,AT4G31780,MGD1|MGDA,monogalactosyl diacylglycerol synthase 1,0.545778044,0.572224509
+2,253495_at,T,F,AT4G31850,PGR3,proton gradient regulation 3,0.561356093,0.545559997
+2,253500_at,T,F,AT4G31920,ARR10|RR10,response regulator 10,0.50162305,0.567988844
+2,253542_at,T,F,AT4G31670,UBP18,ubiquitin-specific protease 18,0.553272609,0.536651675
+2,253550_at,T,F,AT4G30960,ATCIPK6|CIPK6|SNRK3.14|SIP3,SOS3-interacting protein 3,0.783179466,0.591844391
+2,253585_at,T,F,AT4G30720,AT4G30720,FAD/NAD(P)-binding oxidoreductase family protein,0.530681738,0.541961992
+2,253597_at,T,F,AT4G30690,AT4G30690,Translation initiation factor 3 protein,0.524250334,0.591197395
+2,253601_at,T,F,AT4G30900,AT4G30900,DNAse I-like superfamily protein,0.570832356,0.537193294
+2,253623_at,T,F,AT4G30570,AT4G30570,Glucose-1-phosphate adenylyltransferase family protein,0.536757365,0.646786998
+2,253630_at,T,F,AT4G30490,AT4G30490,AFG1-like ATPase family protein,0.678114293,0.54922806
+2,253640_at,T,F,AT4G30630,AT4G30630,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G57910.1); Has 33 Blast hits to 33 proteins in 10 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 33; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.786187435,0.506456498
+2,253650_at,T,F,AT4G30020,AT4G30020,PA-domain containing subtilase family protein,0.627067457,0.610404584
+2,253661_at,T,F,AT4G30130,AT4G30130,Protein of unknown function (DUF630 and DUF632),0.543475149,0.548183158
+2,253672_at,T,F,AT4G29820,CFIM-25|ATCFIM-25,homolog of CFIM-25,0.565912131,0.646615224
+2,253698_at,T,F,AT4G29680,AT4G29680,Alkaline-phosphatase-like family protein,0.510387987,0.505411054
+2,253703_at,T,F,AT4G29910,ORC5|ATORC5,origin recognition complex protein 5,0.607760658,0.65744045
+2,253758_at,T,F,AT4G29060,emb2726,elongation factor Ts family protein,0.553681237,0.525122958
+2,253770_at,T,F,AT4G28540,PAPK1|CKL6,casein kinase I-like 6,0.522324318,0.504416274
+2,253773_s_at,F,NA,AT1G52370,AT1G52370,Ribosomal protein L22p/L17e family protein,0.697688705,0.526963877
+2,253780_at,T,F,AT4G28400,AT4G28400,Protein phosphatase 2C family protein,0.624675158,0.538534866
+2,253789_at,T,F,AT4G28570,AT4G28570,Long-chain fatty alcohol dehydrogenase family protein,0.70943679,0.538715998
+2,253802_at,T,F,AT4G28180,AT4G28180,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: N-terminal protein myristoylation; LOCATED IN: cellular_component unknown; EXPRESSED IN: 15 plant structures; EXPRESSED DURING: 8 growth stages; Has 1508 Blast hits to 1315 proteins in 223 species: Archae - 4; Bacteria - 127; Metazoa - 687; Fungi - 310; Plants - 142; Viruses - 28; Other Eukaryotes - 210 (source: NCBI BLink).,0.634313063,0.711513999
+2,253819_at,T,F,AT4G28350,AT4G28350,Concanavalin A-like lectin protein kinase family protein,0.511266914,0.650611148
+2,253836_at,T,F,AT4G27840,AT4G27840,SNARE-like superfamily protein,0.515873756,0.513344363
+2,253849_at,T,F,AT4G28080,AT4G28080,Tetratricopeptide repeat (TPR)-like superfamily protein,0.503513427,0.610716503
+2,253858_at,T,F,AT4G27600,NARA5,pfkB-like carbohydrate kinase family protein,0.594504676,0.506205551
+2,253861_at,T,F,AT4G27680,AT4G27680,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.580488153,0.590779854
+2,253871_at,T,F,AT4G27440,PORB,protochlorophyllide oxidoreductase B,0.600281474,0.531150789
+2,253886_at,T,F,AT4G27710,CYP709B3,"cytochrome P450, family 709, subfamily B, polypeptide 3",0.50802522,0.599889792
+2,253889_at,T,F,AT4G27760,FEY3|FEY,NAD(P)-binding Rossmann-fold superfamily protein,0.661738107,0.527771799
+2,253891_at,T,F,AT4G27720,AT4G27720,Major facilitator superfamily protein,0.702548307,0.661036794
+2,253892_at,T,F,AT4G27620,AT4G27620,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 18 plant structures; EXPRESSED DURING: 11 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G27610.3); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.531436219,0.52345758
+2,253920_at,T,F,AT4G27230,HTA2,histone H2A 2,0.649482807,0.592205731
+2,253921_at,T,F,AT4G26900,AT-HF|HISN4,HIS HF,0.519462656,0.702784009
+2,253925_at,T,F,AT4G26690,GPDL2|SHV3|MRH5,PLC-like phosphodiesterase family protein,0.502021635,0.797590833
+2,253971_at,T,F,AT4G26530,AT4G26530,Aldolase superfamily protein,0.574974555,0.562804919
+2,254004_at,T,F,AT4G26300,emb1027,"Arginyl-tRNA synthetase, class Ic",0.597789758,0.733316556
+2,254011_at,T,F,AT4G26370,AT4G26370,antitermination NusB domain-containing protein,0.575986951,0.576117468
+2,254063_at,T,F,AT4G25390,AT4G25390,Protein kinase superfamily protein,0.588230405,0.523963073
+2,254072_at,T,F,AT4G25370,AT4G25370,Double Clp-N motif protein,0.570945062,0.571486651
+2,254119_at,T,F,AT4G24780,AT4G24780,Pectin lyase-like superfamily protein,0.585727446,0.593533693
+2,254131_at,T,F,AT4G24740,AME1|AFC2|FC2,FUS3-complementing gene 2,0.71754431,0.53870143
+2,254134_at,T,F,AT4G24830,AT4G24830,arginosuccinate synthase family,0.625296248,0.668848101
+2,254137_at,T,F,AT4G24930,AT4G24930,"thylakoid lumenal 17.9 kDa protein, chloroplast",0.594035018,0.513023071
+2,254150_at,T,F,AT4G24350,AT4G24350,Phosphorylase superfamily protein,0.502719587,0.592762236
+2,254198_at,T,F,AT4G24090,AT4G24090,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; Has 144 Blast hits to 142 proteins in 73 species: Archae - 3; Bacteria - 62; Metazoa - 7; Fungi - 13; Plants - 44; Viruses - 0; Other Eukaryotes - 15 (source: NCBI BLink).,0.54712158,0.54717344
+2,254207_at,T,F,AT4G24060,AT4G24060,Dof-type zinc finger DNA-binding family protein,0.503138715,0.512496822
+2,254216_at,T,F,AT4G23710,VHA-G2|VAG2|VATG2,vacuolar ATP synthase subunit G2,0.508793682,0.600609029
+2,254230_at,T,F,AT4G23660,PPT1|AtPPT1,polyprenyltransferase 1,0.620090113,0.64506102
+2,254278_at,T,F,AT4G22740,AT4G22740,glycine-rich protein,0.574674006,0.722775791
+2,254327_at,T,F,AT4G22490,AT4G22490,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.513829469,0.554336938
+2,254355_at,T,F,AT4G22380,AT4G22380,Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein,0.641909735,0.681222267
+2,254363_at,T,F,AT4G22010,sks4,SKU5  similar 4,0.555847494,0.791114388
+2,254369_at,T,F,AT4G21720,AT4G21720,unknown protein; Has 2692 Blast hits to 975 proteins in 186 species: Archae - 4; Bacteria - 460; Metazoa - 658; Fungi - 93; Plants - 1089; Viruses - 100; Other Eukaryotes - 288 (source: NCBI BLink).,0.522374269,0.620023409
+2,254393_at,T,F,AT4G21580,AT4G21580,"oxidoreductase, zinc-binding dehydrogenase family protein",0.795619617,0.511587769
+2,254396_at,T,F,AT4G21680,NRT1.8,NITRATE TRANSPORTER 1.8,0.551264215,0.629874343
+2,254398_at,T,F,AT4G21280,PSBQ-1|PSBQA|PSBQ,photosystem II subunit QA,0.507939301,0.605105914
+2,254417_at,T,F,AT4G21470,FMN/FHY|ATFMN/FHY,riboflavin kinase/FMN hydrolase,0.561304343,0.741182204
+2,254423_at,T,F,AT4G21610,LOL2,lsd one like 2,0.542729533,0.568245838
+2,254480_at,T,F,AT4G20360,ATRAB8D|ATRABE1B|RABE1b,RAB GTPase homolog E1B,0.5575808,0.55693503
+2,254484_at,NA,NA,NA,NA,NA,0.534822166,0.560625896
+2,254533_at,T,F,AT4G19670,AT4G19670,RING/U-box superfamily protein,0.784283246,0.504605404
+2,254545_at,T,F,AT4G19830,AT4G19830,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.548158206,0.572277012
+2,254553_at,T,F,AT4G19530,AT4G19530,disease resistance protein (TIR-NBS-LRR class) family,0.581827608,0.534159286
+2,254564_at,T,F,AT4G19170,NCED4|CCD4,nine-cis-epoxycarotenoid dioxygenase 4,0.551028054,0.557000286
+2,254601_at,NA,NA,NA,NA,NA,0.735054653,0.662246976
+2,254602_at,T,F,AT4G19040,EDR2,ENHANCED DISEASE RESISTANCE 2,0.755404731,0.573935706
+2,254630_at,T,F,AT4G18360,AT4G18360,Aldolase-type TIM barrel family protein,0.581036281,0.503033125
+2,254638_at,T,F,AT4G18740,AT4G18740,Rho termination factor,0.572180627,0.513158715
+2,254686_at,T,F,AT4G13720,AT4G13720,Inosine triphosphate pyrophosphatase family protein,0.54358213,0.625269691
+2,254701_at,T,F,AT4G18030,AT4G18030,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.5395312,0.811766714
+2,254705_at,T,F,AT4G17870,RCAR11|PYR1,Polyketide cyclase/dehydrase and lipid transport superfamily protein,0.666296551,0.592551534
+2,254709_at,T,F,AT4G17890,AGD8,ARF-GAP domain 8,0.552949106,0.612715243
+2,254732_at,T,T,AT4G13750,NOV,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein",0.534316353,0.705644063
+2,254745_at,T,F,AT4G13460,SDG22|SUVH9|SET22,SU(VAR)3-9 homolog 9,0.512570199,0.580175435
+2,254760_at,T,F,AT4G13200,AT4G13200,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: thylakoid, chloroplast thylakoid membrane, chloroplast, plastoglobule; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 97 Blast hits to 97 proteins in 46 species: Archae - 0; Bacteria - 65; Metazoa - 2; Fungi - 0; Plants - 28; Viruses - 0; Other Eukaryotes - 2 (source: NCBI BLink).",0.513778269,0.635258042
+2,254763_at,T,F,AT4G13170,AT4G13170,Ribosomal protein L13 family protein,0.524651862,0.784851196
+2,254769_at,T,F,AT4G13330,AT4G13330,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.504224699,0.774745432
+2,254785_at,T,F,AT4G12730,FLA2,FASCICLIN-like arabinogalactan 2,0.665663347,0.677997125
+2,254798_at,T,F,AT4G13050,AT4G13050,Acyl-ACP thioesterase,0.636324797,0.527272881
+2,254809_at,T,F,AT4G12410,AT4G12410,SAUR-like auxin-responsive protein family,0.589689335,0.527688659
+2,254815_at,T,F,AT4G12420,SKU5,Cupredoxin superfamily protein,0.658574031,0.70276282
+2,254835_s_at,F,NA,AT4G12320,CYP706A6,"cytochrome P450, family 706, subfamily A, polypeptide 6",0.573000403,0.523452786
+2,254859_at,T,F,AT4G12060,AT4G12060,Double Clp-N motif protein,0.54573133,0.552433896
+2,254889_at,T,F,AT4G11650,OSM34|ATOSM34,osmotin 34,0.533331632,0.509909226
+2,254891_at,T,F,AT4G11740,SAY1,Ubiquitin-like superfamily protein,0.706930779,0.574449498
+2,254903_at,T,F,AT4G11150,VHA-E1|emb2448|TUF|TUFF,vacuolar ATP synthase subunit E1,0.61428739,0.521368237
+2,254910_at,T,F,AT4G11175,AT4G11175,"Nucleic acid-binding, OB-fold-like protein",0.550657444,0.538108588
+2,254938_at,T,F,AT4G10770,OPT7|ATOPT7,oligopeptide transporter 7,0.510692852,0.608924139
+2,254971_at,T,F,AT4G10380,NLM8|NIP5;1|NLM6,NOD26-like intrinsic protein 5;1,0.579216188,0.501615024
+2,255017_at,T,F,AT4G10100,CNX7|SIR5,"co-factor for nitrate, reductase and xanthine dehydrogenase 7",0.527899225,0.647664109
+2,255041_at,T,F,AT4G09620,AT4G09620,Mitochondrial transcription termination factor family protein,0.507351555,0.507889958
+2,255046_at,T,F,AT4G09650,ATPD,ATP synthase delta-subunit gene,0.539129243,0.557750807
+2,255048_at,T,F,AT4G09600,GASA3,GAST1 protein homolog 3,0.580113874,0.529375432
+2,255067_at,T,F,AT4G08960,AT4G08960,phosphotyrosyl phosphatase activator (PTPA) family protein,0.642198451,0.50249755
+2,255082_at,NA,NA,NA,NA,NA,0.624308169,0.723310813
+2,255150_at,T,F,AT4G08160,AT4G08160,glycosyl hydrolase family 10 protein / carbohydrate-binding domain-containing protein,0.584238334,0.500310136
+2,255171_at,T,F,AT4G07990,AT4G07990,Chaperone DnaJ-domain superfamily protein,0.575302055,0.636784307
+2,255220_at,T,F,AT4G05320,UBQ10,polyubiquitin 10,0.584577786,0.510583189
+2,255233_at,T,F,AT4G05450,ATMFDX1|MFDX1,mitochondrial ferredoxin 1,0.503040217,0.548176885
+2,255327_at,T,F,AT4G04320,AT4G04320,malonyl-CoA decarboxylase family protein,0.655140695,0.743353643
+2,255328_at,T,F,AT4G04350,EMB2369,"tRNA synthetase class I (I, L, M and V) family protein",0.574134955,0.530026887
+2,255329_at,T,F,AT4G04370,AT4G04370,Tetratricopeptide repeat (TPR)-like superfamily protein,0.517237564,0.570114136
+2,255340_at,T,F,AT4G04490,CRK36,cysteine-rich RLK (RECEPTOR-like protein kinase) 36,0.583215592,0.587635461
+2,255360_at,T,F,AT4G03960,AT4G03960,Phosphotyrosine protein phosphatases superfamily protein,0.573550489,0.705001419
+2,255365_at,T,F,AT4G04040,MEE51,Phosphofructokinase family protein,0.54176268,0.573584144
+2,255400_at,T,F,AT4G03760,AT4G03760,pseudogene of unknown protein,0.531462436,0.566570487
+2,255410_at,T,F,AT4G03100,AT4G03100,Rho GTPase activating protein with PAK-box/P21-Rho-binding domain,0.585778086,0.621758505
+2,255422_at,T,F,AT4G03270,CYCD6;1,Cyclin D6;1,0.517099684,0.578193943
+2,255436_at,T,F,AT4G03150,AT4G03150,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 20 plant structures; EXPRESSED DURING: 13 growth stages; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.509761884,0.599304802
+2,255460_at,T,F,AT4G02800,AT4G02800,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 16 plant structures; EXPRESSED DURING: 9 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G01970.1); Has 3209 Blast hits to 2720 proteins in 308 species: Archae - 13; Bacteria - 213; Metazoa - 1207; Fungi - 247; Plants - 183; Viruses - 21; Other Eukaryotes - 1325 (source: NCBI BLink).,0.553210671,0.528395022
+2,255495_at,T,F,AT4G02720,AT4G02720,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF926 (InterPro:IPR009269); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,0.503299294,0.504606138
+2,255527_at,T,F,AT4G02360,AT4G02360,"Protein of unknown function, DUF538",0.555152594,0.654820284
+2,255537_at,T,F,AT4G01690,PPO1|PPOX|HEMG1,Flavin containing amine oxidoreductase family,0.590526024,0.504791102
+2,255546_at,T,F,AT4G01910,AT4G01910,Cysteine/Histidine-rich C1 domain family protein,0.536961779,0.582192588
+2,255622_at,T,F,AT4G01070,UGT72B1|GT72B1,UDP-Glycosyltransferase superfamily protein,0.631003768,0.615408693
+2,255663_at,T,F,AT4G00420,AT4G00420,Double-stranded RNA-binding domain (DsRBD)-containing protein,0.533018391,0.595241971
+2,255671_at,T,F,AT4G00355,AT4G00355,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G45980.1); Has 100 Blast hits to 97 proteins in 16 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 100; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.654623744,0.626793075
+2,255724_at,T,F,AT4G00020,BRCA2(IV)|EDA20|BRCA2A|MEE43,BREAST CANCER 2 like 2A,0.503034532,0.716952555
+2,255732_at,T,F,AT1G25450,CER60|KCS5,3-ketoacyl-CoA synthase 5,0.585656036,0.509691096
+2,255738_at,T,F,AT1G25570,AT1G25570,Di-glucose binding protein with Leucine-rich repeat domain,0.592297242,0.757790518
+2,255787_at,T,F,AT2G33590,AT2G33590,NAD(P)-binding Rossmann-fold superfamily protein,0.551087916,0.65942522
+2,255850_at,T,F,AT2G33450,AT2G33450,Ribosomal L28 family,0.6082557,0.511822847
+2,255852_at,T,F,AT1G66970,SVL2,SHV3-like 2,0.518977865,0.575248987
+2,255874_at,T,F,AT2G40550,ETG1,E2F target gene 1,0.553513615,0.557645807
+2,255888_at,T,F,AT1G20300,AT1G20300,Pentatricopeptide repeat (PPR) superfamily protein,0.522793132,0.541817961
+2,255966_at,T,F,AT1G22300,14-3-3EPSILON|GRF10|GF14 EPSILON,general regulatory factor 10,0.578919091,0.54591946
+2,255980_at,T,F,AT1G33970,AT1G33970,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.510511404,0.700742242
+2,256015_at,T,F,AT1G19150,LHCA2*1|LHCA6,photosystem I light harvesting complex gene 6,0.598103479,0.530789341
+2,256017_at,T,F,AT1G19180,JAZ1|TIFY10A,jasmonate-zim-domain protein 1,0.568621112,0.544558991
+2,256023_at,T,F,AT1G58330,ZW2,transcription factor-related,0.550021599,0.576414323
+2,256036_at,T,F,AT1G07110,ATF2KP|FKFBP|F2KP,"fructose-2,6-bisphosphatase",0.526616682,0.540728158
+2,256061_at,T,F,AT1G07040,AT1G07040,unknown protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G27030.1); Has 540 Blast hits to 538 proteins in 187 species: Archae - 0; Bacteria - 333; Metazoa - 0; Fungi - 0; Plants - 67; Viruses - 0; Other Eukaryotes - 140 (source: NCBI BLink).,0.65715285,0.622566
+2,256077_at,T,F,AT1G18090,AT1G18090,5'-3' exonuclease family protein,0.845487133,0.537046833
+2,256082_at,T,F,AT1G20720,AT1G20720,RAD3-like DNA-binding helicase protein,0.662005775,0.644659876
+2,256088_at,T,F,AT1G20810,AT1G20810,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.530538463,0.596924749
+2,256115_at,T,F,AT1G16880,AT1G16880,uridylyltransferase-related,0.515605364,0.564809585
+2,256172_at,NA,NA,NA,NA,NA,0.56950192,0.612745258
+2,256209_at,T,F,AT1G50940,ETFALPHA,electron transfer flavoprotein alpha,0.670026615,0.559827499
+2,256274_at,T,F,AT3G12080,emb2738,GTP-binding family protein,0.60578314,0.500443626
+2,256275_at,T,F,AT3G12110,ACT11,actin-11,0.586460967,0.721441588
+2,256279_at,T,F,AT3G12620,AT3G12620,Protein phosphatase 2C family protein,0.667125303,0.640236004
+2,256290_at,T,F,AT3G12203,scpl17,serine carboxypeptidase-like 17,0.516560114,0.513367161
+2,256296_at,T,F,AT1G69480,AT1G69480,EXS (ERD1/XPR1/SYG1) family protein,0.696557519,0.643946928
+2,256304_at,T,F,AT1G69523,AT1G69523,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.521266934,0.566947604
+2,256320_at,T,F,AT3G12170,AT3G12170,Chaperone DnaJ-domain superfamily protein,0.551851504,0.703400368
+2,256387_at,T,F,AT3G06170,AT3G06170,Serinc-domain containing serine and sphingolipid biosynthesis protein,0.523501448,0.693957839
+2,256400_at,T,F,AT3G06140,AT3G06140,RING/U-box superfamily protein,0.768724885,0.612085703
+2,256452_at,T,F,AT1G75240,HB33|AtHB33,homeobox protein 33,0.558404456,0.509422576
+2,256468_at,T,F,AT1G32550,AT1G32550,2Fe-2S ferredoxin-like superfamily protein,0.524919734,0.572377016
+2,256537_at,T,F,AT1G33340,AT1G33340,ENTH/ANTH/VHS superfamily protein,0.669776321,0.558716252
+2,256574_at,T,F,AT3G14780,AT3G14780,"CONTAINS InterPro DOMAIN/s: Transposase, Ptta/En/Spm, plant (InterPro:IPR004252); BEST Arabidopsis thaliana protein match is: glucan synthase-like 4 (TAIR:AT3G14570.2); Has 315 Blast hits to 313 proteins in 50 species: Archae - 2; Bacteria - 16; Metazoa - 11; Fungi - 7; Plants - 181; Viruses - 2; Other Eukaryotes - 96 (source: NCBI BLink).",0.517651379,0.52854443
+2,256607_at,T,F,AT3G32930,AT3G32930,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast envelope; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 57 Blast hits to 57 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 57; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.545786515,0.568475385
+2,256612_at,T,F,AT3G29280,AT3G29280,unknown protein; Has 24 Blast hits to 24 proteins in 9 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 24; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.50333692,0.57295285
+2,256653_at,T,F,AT3G18870,AT3G18870,Mitochondrial transcription termination factor family protein,0.516364915,0.532128259
+2,256675_at,T,F,AT3G52170,AT3G52170,DNA binding,0.547157411,0.675119538
+2,256698_at,T,F,AT3G20680,AT3G20680,Domain of unknown function (DUF1995),0.51172714,0.617101093
+2,256753_at,T,F,AT3G27160,GHS1,Ribosomal protein S21 family protein,0.618787644,0.502096289
+2,256764_at,T,F,AT3G29310,AT3G29310,calmodulin-binding protein-related,0.55806764,0.567642051
+2,256792_at,T,F,AT3G22150,AT3G22150,Tetratricopeptide repeat (TPR)-like superfamily protein,0.601700081,0.533737229
+2,256798_at,T,F,AT3G18630,ATUNG|UNG,uracil dna glycosylase,0.561517161,0.581858314
+2,256805_at,T,F,AT3G20930,AT3G20930,RNA-binding (RRM/RBD/RNP motifs) family protein,0.522466876,0.581803871
+2,256825_at,T,F,AT3G22120,CWLP,cell wall-plasma membrane linker protein,0.623177909,0.526575142
+2,256826_at,NA,NA,NA,NA,NA,0.52572806,0.560978725
+2,256829_at,T,F,AT3G22850,AT3G22850,Aluminium induced protein with YGL and LRDR motifs,0.516062427,0.584635835
+2,256838_at,T,F,AT3G22950,ARFC1|ATARFC1,ADP-ribosylation factor C1,0.522220219,0.555223018
+2,256839_at,T,F,AT3G22930,CML11,calmodulin-like 11,0.539046302,0.536572845
+2,256856_at,T,F,AT3G15110,AT3G15110,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane; EXPRESSED IN: 20 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3082 (InterPro:IPR021434); Has 77 Blast hits to 77 proteins in 38 species: Archae - 0; Bacteria - 37; Metazoa - 0; Fungi - 0; Plants - 39; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).,0.528954342,0.59615254
+2,256883_at,T,F,AT3G26440,AT3G26440,Protein of unknown function (DUF707),0.56220655,0.508661282
+2,256902_s_at,F,NA,AT3G23910,AT3G23910,BEST Arabidopsis thaliana protein match is: RNA-directed DNA polymerase (reverse transcriptase)-related family protein (TAIR:AT3G24255.2); Has 562 Blast hits to 532 proteins in 147 species: Archae - 28; Bacteria - 51; Metazoa - 157; Fungi - 82; Plants - 85; Viruses - 6; Other Eukaryotes - 153 (source: NCBI BLink).,0.639224114,0.50053018
+2,256937_at,T,F,AT3G22620,AT3G22620,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.564179828,0.521698004
+2,256963_at,T,F,AT3G13490,ATKRS-2|OVA5,"Lysyl-tRNA synthetase, class II",0.549286557,0.521694085
+2,257008_at,T,F,AT3G14210,ESM1,Epithiospecifier modifier 1,0.530180673,0.581318444
+2,257071_at,T,F,AT3G28180,ATCSLC4|ATCSLC04|CSLC4|CSLC04,Cellulose-synthase-like C4,0.576098084,0.690705877
+2,257084_at,T,F,AT3G20620,AT3G20620,F-box family protein-related,0.502282178,0.61802943
+2,257088_at,T,F,AT3G20510,AT3G20510,Transmembrane proteins 14C,0.515400067,0.536032396
+2,257136_at,T,F,AT3G12890,ASML2,activator of spomin::LUC2,0.501903612,0.56733067
+2,257157_at,T,F,AT3G24350,ATSYP32|SYP32,syntaxin of plants  32,0.659265667,0.522549414
+2,257168_at,T,F,AT3G24430,HCF101,ATP binding,0.553787496,0.542574667
+2,257172_at,T,F,AT3G23700,AT3G23700,Nucleic acid-binding proteins superfamily,0.508376513,0.602965446
+2,257204_at,T,F,AT3G23805,RALFL24,ralf-like 24,0.515372866,0.693220347
+2,257213_at,T,F,AT3G15020,mMDH2,Lactate/malate dehydrogenase family protein,0.582209826,0.507612116
+2,257218_at,T,F,AT3G15000,AT3G15000,cobalt ion binding,0.696562547,0.621408304
+2,257224_at,T,F,AT3G27870,AT3G27870,ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein,0.686367564,0.616254278
+2,257225_s_at,F,NA,AT3G27850,RPL12-C,ribosomal protein L12-C,0.541021293,0.544111455
+2,257227_at,T,F,AT3G27820,ATMDAR4|MDAR4,monodehydroascorbate reductase 4,0.714116931,0.560419977
+2,257272_at,T,F,AT3G28130,AT3G28130,nodulin MtN21 /EamA-like transporter family protein,0.51541522,0.564391099
+2,257273_at,T,F,AT3G28030,UVR1|UVH3,5'-3' exonuclease family protein,0.612054222,0.549296863
+2,257277_at,T,F,AT3G14470,AT3G14470,NB-ARC domain-containing disease resistance protein,0.510035719,0.602268449
+2,257290_at,T,T,AT3G15550,AT3G15550,unknown protein; Has 25732 Blast hits to 16979 proteins in 961 species: Archae - 144; Bacteria - 1801; Metazoa - 12681; Fungi - 1868; Plants - 912; Viruses - 94; Other Eukaryotes - 8232 (source: NCBI BLink).,0.520156316,0.536414909
+2,257293_at,T,F,AT3G15580,APG8H|ATG8I,Ubiquitin-like superfamily protein,0.6883521,0.566245578
+2,257403_at,T,F,AT1G62520,AT1G62520,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G12450.1); Has 388 Blast hits to 388 proteins in 26 species: Archae - 0; Bacteria - 1; Metazoa - 0; Fungi - 8; Plants - 376; Viruses - 0; Other Eukaryotes - 3 (source: NCBI BLink).,0.658189959,0.580451879
+2,257409_at,T,F,AT2G17470,AT2G17470,Aluminium activated malate transporter family protein,0.500626675,0.547451771
+2,257474_at,T,F,AT1G80850,AT1G80850,DNA glycosylase superfamily protein,0.594004581,0.639098861
+2,257533_at,T,F,AT3G10840,AT3G10840,alpha/beta-Hydrolases superfamily protein,0.554167099,0.523363227
+2,257600_at,T,F,AT3G24770,CLE41,CLAVATA3/ESR-RELATED 41,0.580921221,0.527795649
+2,257616_at,T,F,AT3G26540,AT3G26540,Tetratricopeptide repeat (TPR)-like superfamily protein,0.682941053,0.57509912
+2,257674_at,T,F,AT3G20390,AT3G20390,endoribonuclease L-PSP family protein,0.55081379,0.540151674
+2,257686_at,T,T,AT3G12800,SDRB|DECR,short-chain dehydrogenase-reductase B,0.713438142,0.576491113
+2,257699_at,T,F,AT3G12780,PGK1,phosphoglycerate kinase 1,0.532048261,0.583612834
+2,257706_at,T,F,AT3G12685,AT3G12685,Acid phosphatase/vanadium-dependent haloperoxidase-related protein,0.542123215,0.544877619
+2,257714_at,T,F,AT3G27360,AT3G27360,Histone superfamily protein,0.501689292,0.788917378
+2,257725_at,T,F,AT3G18524,MSH2|ATMSH2,MUTS homolog 2,0.620149116,0.584958871
+2,257744_at,T,F,AT3G29230,AT3G29230,Tetratricopeptide repeat (TPR)-like superfamily protein,0.521075152,0.558564097
+2,257757_at,T,F,AT3G18660,PGSIP1|GUX1,plant glycogenin-like starch initiation protein 1,0.605095598,0.500195842
+2,257772_at,T,F,AT3G23080,AT3G23080,Polyketide cyclase/dehydrase and lipid transport superfamily protein,0.552919309,0.530328282
+2,257773_at,T,F,AT3G29185,AT3G29185,Domain of unknown function (DUF3598),0.590792628,0.509391604
+2,257809_at,T,F,AT3G27060,TSO2|ATTSO2,Ferritin/ribonucleotide reductase-like family protein,0.724429333,0.51421087
+2,257814_at,T,F,AT3G25110,FaTA|AtFaTA,fatA acyl-ACP thioesterase,0.532856015,0.560352433
+2,257825_at,T,F,AT3G26700,AT3G26700,Protein kinase superfamily protein,0.802655087,0.518311534
+2,257841_at,T,F,AT3G25260,AT3G25260,Major facilitator superfamily protein,0.523338876,0.60795316
+2,257845_at,T,F,AT3G28430,AT3G28430,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 17 plant structures; EXPRESSED DURING: 6 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function FPL (InterPro:IPR019155); Has 243 Blast hits to 233 proteins in 101 species: Archae - 0; Bacteria - 0; Metazoa - 110; Fungi - 0; Plants - 53; Viruses - 0; Other Eukaryotes - 80 (source: NCBI BLink).,0.741723973,0.517381376
+2,257883_at,T,F,AT3G16940,AT3G16940,calmodulin binding;transcription regulators,0.619936938,0.696474356
+2,257888_at,T,F,AT3G16990,AT3G16990,"Haem oxygenase-like, multi-helical",0.522002191,0.752210663
+2,257893_at,T,F,AT3G17000,UBC32,ubiquitin-conjugating enzyme 32,0.51268805,0.765378814
+2,257932_at,T,F,AT3G17040,HCF107,high chlorophyll fluorescent 107,0.534376913,0.590460722
+2,257937_at,T,F,AT3G19810,AT3G19810,Protein of unknown function (DUF177),0.530093532,0.584304312
+2,257953_at,T,F,AT3G21865,PEX22,peroxin 22,0.553780177,0.512622479
+2,258005_at,T,F,AT3G19390,AT3G19390,Granulin repeat cysteine protease family protein,0.509882341,0.571964753
+2,258018_at,T,F,AT3G19500,AT3G19500,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,0.500196847,0.585712851
+2,258023_at,T,F,AT3G19450,CAD-C|CAD4|ATCAD4|CAD,GroES-like zinc-binding alcohol dehydrogenase family protein,0.511340687,0.558149409
+2,258053_at,T,F,AT3G16230,AT3G16230,Predicted eukaryotic LigT,0.561837599,0.646771905
+2,258055_at,T,F,AT3G16250,NDF4,NDH-dependent cyclic electron flow 1,0.597863501,0.516609989
+2,258064_at,T,F,AT3G14680,CYP72A14,"cytochrome P450, family 72, subfamily A, polypeptide 14",0.521922425,0.507647378
+2,258086_at,T,F,AT3G25860,LTA2|PLE2,2-oxoacid dehydrogenases acyltransferase family protein,0.651151182,0.660398778
+2,258087_at,T,F,AT3G26060,ATPRX Q,Thioredoxin superfamily protein,0.532634118,0.592066938
+2,258094_at,T,F,AT3G14690,CYP72A15,"cytochrome P450, family 72, subfamily A, polypeptide 15",0.666352288,0.515852012
+2,258103_at,T,F,AT3G23630,ATIPT7|IPT7,isopentenyltransferase 7,0.520665773,0.520816899
+2,258122_at,T,F,AT3G14570,ATGSL04|GSL04|atgsl4|gsl04,glucan synthase-like 4,0.522678404,0.560511759
+2,258158_at,T,F,AT3G17790,PAP17|ATACP5|ATPAP17,purple acid phosphatase 17,0.798707938,0.592525908
+2,258159_at,T,F,AT3G17840,RLK902,receptor-like kinase 902,0.505220659,0.757579903
+2,258185_at,T,F,AT3G21580,AT3G21580,cobalt ion transmembrane transporters,0.521981187,0.512827766
+2,258219_at,T,T,AT3G17880,ATTDX|HIP|ATHIP2|TDX,tetraticopeptide domain-containing thioredoxin,0.644947031,0.557285359
+2,258232_at,T,F,AT3G27750,AT3G27750,FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 16 plant structures; EXPRESSED DURING: 12 growth stages; BEST Arabidopsis thaliana protein match is: Vacuolar sorting protein 9 (VPS9) domain (TAIR:AT5G09320.1); Has 106 Blast hits to 106 proteins in 16 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 4; Plants - 102; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.503553752,0.547861999
+2,258239_at,T,F,AT3G27690,LHCB2.4|LHCB2|LHCB2.3,photosystem II light harvesting complex gene 2.3,0.610555883,0.506499447
+2,258243_at,T,F,AT3G27740,CARA,carbamoyl phosphate synthetase A,0.552233331,0.607645726
+2,258264_at,T,F,AT3G15790,ATMBD11|MBD11,methyl-CPG-binding domain 11,0.607010929,0.753364072
+2,258269_at,T,F,AT3G15690,AT3G15690,Single hybrid motif superfamily protein,0.511482374,0.518308099
+2,258281_at,T,F,AT3G26900,ATSKL1|SKL1,shikimate kinase like 1,0.515861774,0.605039245
+2,258312_at,T,F,AT3G16170,AT3G16170,AMP-dependent synthetase and ligase family protein,0.743645603,0.563786003
+2,258333_at,T,F,AT3G16000,MFP1,MAR binding filament-like protein 1,0.574724702,0.563925434
+2,258347_at,T,F,AT3G17520,AT3G17520,Late embryogenesis abundant protein (LEA) family protein,0.714515542,0.597564838
+2,258365_s_at,F,NA,AT3G14390,AT3G14390,Pyridoxal-dependent decarboxylase family protein,0.521225441,0.718566991
+2,258368_at,T,F,AT3G14240,AT3G14240,Subtilase family protein,0.673158804,0.503562669
+2,258374_at,T,F,AT3G14360,AT3G14360,alpha/beta-Hydrolases superfamily protein,0.526933352,0.501770303
+2,258393_at,T,F,AT3G15480,AT3G15480,Protein of unknown function (DUF1218),0.622939003,0.561876515
+2,258394_at,T,F,AT3G15530,AT3G15530,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.7012063,0.627050322
+2,258419_at,T,F,AT3G16670,AT3G16670,Pollen Ole e 1 allergen and extensin family protein,0.513052602,0.583380882
+2,258446_at,NA,NA,NA,NA,NA,0.609667014,0.597598692
+2,258452_at,T,F,AT3G22370,ATAOX1A|AOX1A,alternative oxidase 1A,0.565260072,0.619339646
+2,258484_at,T,F,AT3G02580,BUL1|STE1|DWF7,sterol 1,0.611304551,0.50430135
+2,258494_at,T,F,AT3G02450,AT3G02450,"cell division protein ftsH, putative",0.506141362,0.547412516
+2,258498_at,T,F,AT3G02480,AT3G02480,Late embryogenesis abundant protein (LEA) family protein,0.796978368,0.506331781
+2,258515_at,T,F,AT3G06650,ACLB-1,ATP-citrate lyase B-1,0.646298979,0.579898238
+2,258549_at,T,F,AT3G06930,ATPRMT4B|PRMT4B,protein arginine methyltransferase 4B,0.505952981,0.787392308
+2,258551_at,T,F,AT3G06890,AT3G06890,unknown protein; Has 91 Blast hits to 91 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 91; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.623911229,0.529272375
+2,258573_at,T,F,AT3G04260,PTAC3,plastid transcriptionally active 3,0.514737279,0.562707239
+2,258599_at,T,F,AT3G04520,THA2,threonine aldolase 2,0.651008412,0.555514113
+2,258660_at,T,F,AT3G09850,AT3G09850,D111/G-patch domain-containing protein,0.748556793,0.669809416
+2,258706_at,T,F,AT3G09570,AT3G09570,Lung seven transmembrane receptor family protein,0.581195512,0.510182428
+2,258714_at,T,F,AT3G09770,AT3G09770,RING/U-box superfamily protein,0.543993442,0.708267789
+2,258731_at,T,F,AT3G11880,AT3G11880,"Protein of unknown function DUF2359, transmembrane",0.540493008,0.656133038
+2,258750_at,T,F,AT3G05910,AT3G05910,Pectinacetylesterase family protein,0.629537737,0.614022451
+2,258782_at,T,F,AT3G11750,FOLB1,Dihydroneopterin aldolase,0.584880601,0.502190656
+2,258800_at,T,F,AT3G04550,AT3G04550,"unknown protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast stroma, chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G28500.1); Has 110 Blast hits to 110 proteins in 51 species: Archae - 0; Bacteria - 67; Metazoa - 1; Fungi - 0; Plants - 41; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).",0.567187274,0.581547087
+2,258836_at,T,F,AT3G07210,AT3G07210,unknown protein; Has 97 Blast hits to 85 proteins in 31 species: Archae - 0; Bacteria - 14; Metazoa - 7; Fungi - 19; Plants - 37; Viruses - 0; Other Eukaryotes - 20 (source: NCBI BLink).,0.541634723,0.671431058
+2,258838_at,T,F,AT3G07140,AT3G07140,GPI transamidase component Gpi16 subunit family protein,0.627344905,0.531219499
+2,258859_at,T,F,AT3G02120,AT3G02120,hydroxyproline-rich glycoprotein family protein,0.52575013,0.628144857
+2,258860_at,T,F,AT3G02050,KUP3|ATKUP3|ATKT4,K+ uptake transporter 3,0.552350586,0.511303264
+2,258861_at,T,F,AT3G02060,AT3G02060,"DEAD/DEAH box helicase, putative",0.542876381,0.503728629
+2,258884_at,T,F,AT3G10050,OMR1,L-O-methylthreonine resistant 1,0.676544953,0.534677944
+2,258887_at,T,F,AT3G05630,PLDZETA2|PDLZ2|PLDP2,phospholipase D P2,0.60813456,0.715411318
+2,258897_at,T,F,AT3G05730,AT3G05730,Encodes a defensin-like (DEFL) family protein.,0.583588713,0.539026773
+2,258929_at,T,F,AT3G10060,AT3G10060,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.59197849,0.530754611
+2,258949_at,T,F,AT3G01370,CFM2|ATCFM2,CRM family member 2,0.503582814,0.642504619
+2,258983_at,T,F,AT3G08860,PYD4,PYRIMIDINE 4,0.701390455,0.513173338
+2,259021_at,T,F,AT3G07540,AT3G07540,Actin-binding FH2 (formin homology 2) family protein,0.561334863,0.532641599
+2,259023_at,T,F,AT3G07510,AT3G07510,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G01580.1); Has 133 Blast hits to 133 proteins in 14 species: Archae - 0; Bacteria - 4; Metazoa - 0; Fungi - 0; Plants - 129; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.560824298,0.761510284
+2,259038_at,T,F,AT3G09210,PTAC13,plastid transcriptionally active 13,0.552749263,0.545508074
+2,259052_at,T,F,AT3G03490,PEX19-1|AtPEX19-1,peroxin 19-1,0.57785695,0.547278544
+2,259104_at,T,F,AT3G02170,LNG2,longifolia2,0.639109991,0.67467074
+2,259109_at,T,F,AT3G05580,AT3G05580,Calcineurin-like metallo-phosphoesterase superfamily protein,0.539442854,0.589781718
+2,259117_at,T,F,AT3G01320,SNL1,SIN3-like 1,0.648114185,0.533884495
+2,259125_at,T,F,AT3G02300,AT3G02300,Regulator of chromosome condensation (RCC1) family protein,0.62626576,0.589516925
+2,259140_at,T,F,AT3G10230,LYC,lycopene cyclase,0.548611708,0.52347531
+2,259161_at,T,F,AT3G01500,CA1|SABP3|ATBCA1|ATSABP3,carbonic anhydrase 1,0.532719829,0.576717454
+2,259177_at,T,F,AT3G01630,AT3G01630,Major facilitator superfamily protein,0.530772096,0.523199197
+2,259181_at,T,F,AT3G01690,AT3G01690,alpha/beta-Hydrolases superfamily protein,0.553505591,0.542237629
+2,259193_at,T,F,AT3G01480,CYP38|ATCYP38,cyclophilin 38,0.604957054,0.523675093
+2,259207_at,T,F,AT3G09050,AT3G09050,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; Has 120 Blast hits to 120 proteins in 47 species: Archae - 4; Bacteria - 10; Metazoa - 33; Fungi - 2; Plants - 44; Viruses - 0; Other Eukaryotes - 27 (source: NCBI BLink).",0.51656863,0.568533151
+2,259210_at,T,F,AT3G09150,HY2|ATHY2|GUN3,"phytochromobilin:ferredoxin oxidoreductase, chloroplast / phytochromobilin synthase (HY2)",0.555191222,0.533671208
+2,259214_at,T,F,AT3G09085,AT3G09085,Protein of unknown function (DUF962),0.584552593,0.674862134
+2,259215_at,T,F,AT3G09090,DEX1,defective in exine formation protein (DEX1),0.532436712,0.517102059
+2,259219_at,T,F,AT3G03560,AT3G03560,unknown protein; LOCATED IN: plasma membrane; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G23490.1); Has 157 Blast hits to 146 proteins in 38 species: Archae - 3; Bacteria - 14; Metazoa - 8; Fungi - 0; Plants - 120; Viruses - 0; Other Eukaryotes - 12 (source: NCBI BLink).,0.579133565,0.516046845
+2,259258_at,T,F,AT3G07670,AT3G07670,Rubisco methyltransferase family protein,0.511796654,0.60225246
+2,259271_at,T,F,AT3G01170,AT3G01170,Ribosomal protein L34e superfamily protein,0.616313529,0.733484512
+2,259309_at,T,F,AT3G05050,AT3G05050,Protein kinase superfamily protein,0.545643381,0.517948445
+2,259310_s_at,F,NA,AT3G05160,AT3G05160,Major facilitator superfamily protein,0.683357004,0.502671803
+2,259317_at,NA,NA,NA,NA,NA,0.566532714,0.664906041
+2,259319_at,T,F,AT3G01090,KIN10|SNRK1.1|AKIN10,SNF1 kinase homolog 10,0.597024063,0.522222083
+2,259339_at,T,F,AT3G03900,APK3,adenosine-5'-phosphosulfate (APS) kinase 3,0.595778329,0.630464395
+2,259357_at,T,F,AT1G13380,AT1G13380,Protein of unknown function (DUF1218),0.59799392,0.548617187
+2,259395_at,T,F,AT1G06400,ARA2|ATRABA1A|ATRAB11E|ARA-2,Ras-related small GTP-binding family protein,0.690053542,0.586493145
+2,259404_at,T,F,AT1G17720,ATB BETA,"Protein phosphatase 2A, regulatory subunit PR55",0.613536487,0.55031244
+2,259410_at,T,F,AT1G13340,AT1G13340,Regulator of Vps4 activity in the MVB pathway protein,0.500861425,0.550266975
+2,259415_at,T,F,AT1G02330,AT1G02330,CONTAINS InterPro DOMAIN/s: Hepatocellular carcinoma-associated antigen 59 (InterPro:IPR010756); Has 1239 Blast hits to 998 proteins in 204 species: Archae - 4; Bacteria - 71; Metazoa - 421; Fungi - 109; Plants - 87; Viruses - 5; Other Eukaryotes - 542 (source: NCBI BLink).,0.549295247,0.537612396
+2,259440_at,T,F,AT1G01550,BPS1,Protein of unknown function (DUF793),0.506001955,0.564532068
+2,259445_at,T,F,AT1G02400,ATGA2OX6|DTA1|ATGA2OX4|GA2OX6,gibberellin 2-oxidase 6,0.566112032,0.54584068
+2,259466_at,T,F,AT1G19050,ARR7,response regulator 7,0.729694353,0.535606482
+2,259491_at,T,F,AT1G15820,CP24|LHCB6,light harvesting complex photosystem II subunit 6,0.5141581,0.6066371
+2,259499_at,T,F,AT1G15730,AT1G15730,Cobalamin biosynthesis CobW-like protein,0.549038096,0.539467472
+2,259500_at,T,F,AT1G15740,AT1G15740,Leucine-rich repeat family protein,0.613765689,0.589565781
+2,259528_at,T,F,AT1G12330,AT1G12330,unknown protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 12 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G12900.1); Has 249 Blast hits to 249 proteins in 27 species: Archae - 0; Bacteria - 0; Metazoa - 7; Fungi - 14; Plants - 217; Viruses - 0; Other Eukaryotes - 11 (source: NCBI BLink).,0.538662792,0.526817464
+2,259573_at,T,F,AT1G20390,AT1G20390,"gypsy-like retrotransposon family, has a 1.5e-251 P-value blast match to GB:AAD19359 polyprotein (gypsy_Ty3-element) (Sorghum bicolor)",0.587923092,0.51185124
+2,259577_at,T,F,AT1G35340,AT1G35340,ATP-dependent protease La (LON) domain protein,0.531853062,0.549939222
+2,259593_at,T,F,AT1G27970,NTF2B,nuclear transport factor 2B,0.642272811,0.702394296
+2,259611_at,T,F,AT1G52280,AtRABG3d|RABG3d,RAB GTPase homolog G3D,0.645326692,0.530347563
+2,259616_at,T,F,AT1G47960,ATC/VIF1|C/VIF1,cell wall / vacuolar inhibitor of fructosidase 1,0.705725887,0.545925566
+2,259629_at,T,F,AT1G56510,ADR2|WRR4,Disease resistance protein (TIR-NBS-LRR class),0.523070295,0.555908829
+2,259660_at,T,F,AT1G55260,AT1G55260,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.565057124,0.543797164
+2,259683_at,T,F,AT1G63050,AT1G63050,MBOAT (membrane bound O-acyl transferase) family protein,0.587819326,0.53720154
+2,259707_at,T,F,AT1G77490,TAPX,thylakoidal ascorbate peroxidase,0.550320439,0.566741387
+2,259725_at,T,F,AT1G61065,AT1G61065,Protein of unknown function (DUF1218),0.636220837,0.587514249
+2,259738_at,T,F,AT1G64355,AT1G64355,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3593 (InterPro:IPR021995); Has 301 Blast hits to 301 proteins in 96 species: Archae - 0; Bacteria - 143; Metazoa - 0; Fungi - 0; Plants - 44; Viruses - 0; Other Eukaryotes - 114 (source: NCBI BLink).,0.505465823,0.612725568
+2,259741_at,T,F,AT1G71020,AT1G71020,ARM repeat superfamily protein,0.724656747,0.541655943
+2,259751_at,T,F,AT1G71030,ATMYBL2|MYBL2,MYB-like 2,0.52600556,0.551615545
+2,259767_s_at,F,NA,AT1G29350,AT1G29350,Kinase-related protein of unknown function (DUF1296),0.507635906,0.554160939
+2,259771_at,T,F,AT1G29470,AT1G29470,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.53687507,0.700154006
+2,259788_at,T,F,AT1G29670,AT1G29670,GDSL-like Lipase/Acylhydrolase superfamily protein,0.5031664,0.602242486
+2,259791_at,T,F,AT1G29700,AT1G29700,Metallo-hydrolase/oxidoreductase superfamily protein,0.518583615,0.591118323
+2,259792_at,T,F,AT1G29690,CAD1,MAC/Perforin domain-containing protein,0.572819636,0.759689392
+2,259812_at,T,F,AT1G49840,AT1G49840,Protein of unknown function (DUF620),0.662546479,0.719400966
+2,259838_at,T,F,AT1G52220,AT1G52220,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: photosystem I P subunit (TAIR:AT2G46820.2); Has 291 Blast hits to 291 proteins in 50 species: Archae - 0; Bacteria - 90; Metazoa - 0; Fungi - 0; Plants - 200; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).",0.505367967,0.617760331
+2,259847_at,T,F,AT1G72170,AT1G72170,Domain of unknown function (DUF543),0.574293412,0.541318872
+2,259858_at,T,F,AT1G68400,AT1G68400,leucine-rich repeat transmembrane protein kinase family protein,0.614370049,0.671804967
+2,259883_at,T,F,AT1G76400,AT1G76400,Ribophorin I,0.604836312,0.509604226
+2,259896_at,T,F,AT1G71500,AT1G71500,Rieske (2Fe-2S) domain-containing protein,0.521950111,0.60226163
+2,259914_at,NA,NA,NA,NA,NA,0.63702527,0.501742458
+2,259922_at,T,F,AT1G72770,HAB1,homology to ABI1,0.658164838,0.64114866
+2,259927_at,T,F,AT1G75100,JAC1,J-domain protein required for chloroplast accumulation response 1,0.526323253,0.545972663
+2,259932_at,T,F,AT1G34370,STOP1,C2H2 and C2HC zinc fingers superfamily protein,0.537645244,0.513342803
+2,259981_at,T,F,AT1G76450,AT1G76450,Photosystem II reaction center PsbP family protein,0.515375602,0.5841399
+2,259989_at,T,F,AT1G41750,AT1G41750,similar to unknown protein [Arabidopsis thaliana] (TAIR:AT3G32903.1),0.575265104,0.587496694
+2,260029_at,T,F,AT1G30000,MNS3,alpha-mannosidase 3,0.565366442,0.536495994
+2,260044_at,T,F,AT1G73655,AT1G73655,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.524646779,0.639981565
+2,260054_at,T,F,AT1G78130,UNE2,Major facilitator superfamily protein,0.632177913,0.652677613
+2,260100_at,T,F,AT1G73177,BNS,bonsai,0.63537764,0.638619127
+2,260129_at,T,F,AT1G36380,AT1G36380,unknown protein; LOCATED IN: endomembrane system; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 15 growth stages; Has 14 Blast hits to 14 proteins in 6 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 14; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.536943438,0.77629221
+2,260153_at,T,F,AT1G52760,LysoPL2,lysophospholipase 2,0.583841387,0.506671218
+2,260174_at,T,F,AT1G71940,AT1G71940,SNARE associated Golgi protein family,0.624875906,0.507067604
+2,260192_at,T,F,AT1G67630,POLA2,DNA polymerase alpha 2,0.575026906,0.655756297
+2,260201_at,T,F,AT1G67600,AT1G67600,Acid phosphatase/vanadium-dependent haloperoxidase-related protein,0.599469721,0.58846184
+2,260205_at,T,F,AT1G70700,JAZ9|TIFY7,TIFY domain/Divergent CCT motif family protein,0.536165242,0.549217175
+2,260214_at,T,F,AT1G74510,AT1G74510,Galactose oxidase/kelch repeat superfamily protein,0.602034113,0.532573563
+2,260225_at,T,F,AT1G74590,GSTU10|ATGSTU10,glutathione S-transferase TAU 10,0.555165943,0.547516175
+2,260231_at,T,F,AT1G74410,AT1G74410,RING/U-box superfamily protein,0.710735528,0.589914846
+2,260259_at,T,F,AT1G74300,AT1G74300,alpha/beta-Hydrolases superfamily protein,0.738330316,0.520880357
+2,260282_at,T,F,AT1G80410,EMB2753,tetratricopeptide repeat (TPR)-containing protein,0.540710425,0.720729883
+2,260286_at,T,F,AT1G80600,WIN1,HOPW1-1-interacting 1,0.531497255,0.570550297
+2,260296_at,T,F,AT1G63750,AT1G63750,Disease resistance protein (TIR-NBS-LRR class) family,0.688798736,0.551993207
+2,260336_at,T,F,AT1G73990,SPPA1|SPPA,signal peptide peptidase,0.557994026,0.609629093
+2,260358_at,T,F,AT1G69340,AT1G69340,appr-1-p processing enzyme family protein,0.600758848,0.655203629
+2,260372_at,T,F,AT1G73980,AT1G73980,Phosphoribulokinase / Uridine kinase family,0.67192626,0.61237391
+2,260407_at,T,F,AT1G69910,AT1G69910,Protein kinase superfamily protein,0.773427396,0.502669874
+2,260417_at,T,F,AT1G69770,CMT3,chromomethylase 3,0.506604346,0.819524381
+2,260461_at,T,F,AT1G10980,AT1G10980,Lung seven transmembrane receptor family protein,0.549993568,0.505049159
+2,260464_at,T,F,AT1G10920,LOV1,NB-ARC domain-containing disease resistance protein,0.505527384,0.519130501
+2,260500_at,T,F,AT2G41705,AT2G41705,camphor resistance CrcB family protein,0.619703962,0.506484346
+2,260540_at,T,F,AT2G43500,AT2G43500,Plant regulator RWP-RK family protein,0.509906017,0.761372236
+2,260542_at,T,F,AT2G43560,AT2G43560,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,0.527571137,0.599639735
+2,260615_at,T,F,AT1G53240,mMDH1,Lactate/malate dehydrogenase family protein,0.573894204,0.767145437
+2,260704_at,T,F,AT1G32470,AT1G32470,Single hybrid motif superfamily protein,0.526418647,0.572002979
+2,260729_at,T,F,AT1G48050,KU80|ATKU80,Ku80 family protein,0.526608167,0.538127421
+2,260769_at,T,F,AT1G49010,AT1G49010,Duplicated homeodomain-like superfamily protein,0.525280267,0.570559158
+2,260789_s_at,F,NA,AT3G06690,AT3G06690,"acyl-CoA oxidases;oxidoreductases, acting on the CH-CH group of donors;FAD binding;oxidoreductases;acyl-CoA oxidases",0.548571389,0.546652995
+2,260793_at,T,F,AT1G06190,AT1G06190,Rho termination factor,0.557524818,0.567591203
+2,260821_at,T,F,AT1G06820,CCR2|CRTISO,carotenoid isomerase,0.515185001,0.602406222
+2,260822_at,T,F,AT1G06790,AT1G06790,RNA polymerase Rpb7 N-terminal domain-containing protein,0.624858243,0.624954346
+2,260837_at,T,F,AT1G43670,AT1G43670,Inositol monophosphatase family protein,0.515253889,0.635529212
+2,260857_at,T,F,AT1G21880,LYM1,lysm domain GPI-anchored protein 1 precursor,0.50609671,0.824538331
+2,260858_at,T,F,AT1G43770,AT1G43770,RING/FYVE/PHD zinc finger superfamily protein,0.665581224,0.579828704
+2,260877_at,T,F,AT1G21500,AT1G21500,unknown protein; Has 29 Blast hits to 29 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 2; Plants - 27; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.619087376,0.530207207
+2,260913_at,T,F,AT1G02500,SAM-1|AtSAM1|SAM1|MAT1,S-adenosylmethionine synthetase 1,0.525769708,0.573751887
+2,260914_at,T,F,AT1G02640,BXL2|ATBXL2,beta-xylosidase 2,0.768837811,0.525148401
+2,260923_at,T,T,AT1G21580,AT1G21580,Zinc finger C-x8-C-x5-C-x3-H type family protein,0.614588301,0.563464552
+2,260928_at,T,F,AT1G02720,GATL5,galacturonosyltransferase 5,0.595039286,0.503786557
+2,260936_at,T,F,AT1G45150,AT1G45150,unknown protein; Has 219 Blast hits to 202 proteins in 78 species: Archae - 0; Bacteria - 166; Metazoa - 0; Fungi - 0; Plants - 36; Viruses - 0; Other Eukaryotes - 17 (source: NCBI BLink).,0.698306599,0.593307812
+2,260937_at,T,F,AT1G45160,AT1G45160,Protein kinase superfamily protein,0.615870657,0.602899741
+2,260964_at,T,F,AT1G45050,UBC15|ATUBC2-1,Ubiquitin-conjugating enzyme family protein,0.642964125,0.549212944
+2,260983_at,T,F,AT1G53560,AT1G53560,Ribosomal protein L18ae family,0.532585843,0.706103309
+2,260988_at,T,F,AT1G53570,MAPKKK3|MAP3KA,mitogen-activated protein kinase kinase kinase 3,0.657021639,0.559600928
+2,261055_at,T,F,AT1G01300,AT1G01300,Eukaryotic aspartyl protease family protein,0.63863576,0.686841651
+2,261075_at,T,F,AT1G07280,AT1G07280,Tetratricopeptide repeat (TPR)-like superfamily protein,0.550732031,0.556555133
+2,261077_at,T,F,AT1G07430,HAI2,highly ABA-induced PP2C gene 2,0.720172859,0.642556688
+2,261106_at,T,F,AT1G62990,KNAT7|IXR11,KNOTTED-like homeobox of Arabidopsis thaliana 7,0.558302631,0.505577636
+2,261114_at,F,NA,AT1G75388,CPuORF5,conserved peptide upstream open reading frame 5,0.591033046,0.580174355
+2,261122_at,T,F,AT1G75330,OTC,ornithine carbamoyltransferase,0.504172964,0.539340861
+2,261131_at,T,F,AT1G19835,AT1G19835,Plant protein of unknown function (DUF869),0.558130943,0.722079785
+2,261143_at,T,F,AT1G19770,ATPUP14|PUP14,purine permease 14,0.607467476,0.574883585
+2,261154_at,T,F,AT1G04970,AT1G04970,lipid-binding serum glycoprotein family protein,0.698553053,0.546247857
+2,261155_at,T,F,AT1G04960,AT1G04960,Protein of unknown function (DUF1664),0.61130588,0.584940973
+2,261165_at,T,F,AT1G34430,EMB3003,2-oxoacid dehydrogenases acyltransferase family protein,0.69714875,0.520769892
+2,261175_at,T,F,AT1G04800,AT1G04800,glycine-rich protein,0.590051045,0.551126618
+2,261194_at,T,F,AT1G12775,AT1G12775,Pentatricopeptide repeat (PPR) superfamily protein,0.525300138,0.561299451
+2,261206_at,T,F,AT1G12800,AT1G12800,"Nucleic acid-binding, OB-fold-like protein",0.50836966,0.575513896
+2,261220_at,T,F,AT1G19970,AT1G19970,ER lumen protein retaining receptor family protein,0.557564488,0.691477756
+2,261223_at,T,F,AT1G19950,HVA22H,HVA22-like protein H (ATHVA22H),0.579527114,0.544534923
+2,261276_at,T,F,AT1G26670,VTI1B|ATVTI12|VTI12,Vesicle transport v-SNARE family protein,0.641560243,0.520005357
+2,261306_at,T,F,AT1G48610,AT1G48610,AT hook motif-containing protein,0.738677185,0.603375666
+2,261322_at,T,F,AT1G44750,PUP11|ATPUP11,purine permease 11,0.686364994,0.526476844
+2,261338_at,T,F,AT1G44920,AT1G44920,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3054 (InterPro:IPR021414); Has 246 Blast hits to 246 proteins in 119 species: Archae - 14; Bacteria - 181; Metazoa - 0; Fungi - 0; Plants - 45; Viruses - 0; Other Eukaryotes - 6 (source: NCBI BLink).,0.546446958,0.562389145
+2,261379_at,T,F,AT1G18720,AT1G18720,Protein of unknown function (DUF962),0.63978236,0.5242526
+2,261433_s_at,F,NA,AT1G07810,ECA1|ACA3|ATECA1,ER-type Ca2+-ATPase 1,0.624693619,0.525068472
+2,261438_at,F,NA,AT1G07600,MT-Q|MT1|ATMT-Q|ATMT-2|ATMT1|LSR4|MT1A,metallothionein 1A,0.630595319,0.517448069
+2,261467_at,T,F,AT1G28520,VOZ1|ATVOZ1,vascular plant one zinc finger protein,0.602029257,0.779067303
+2,261488_at,T,F,AT1G14345,AT1G14345,NAD(P)-linked oxidoreductase superfamily protein,0.511786929,0.574478653
+2,261535_at,T,F,AT1G01725,AT1G01725,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G00530.1); Has 20 Blast hits to 20 proteins in 7 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 20; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.583018136,0.587049533
+2,261536_at,T,F,AT1G01790,KEA1|ATKEA1,K+ efflux antiporter 1,0.567377508,0.502892627
+2,261540_at,T,F,AT1G63610,AT1G63610,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G14910.1); Has 537 Blast hits to 411 proteins in 100 species: Archae - 0; Bacteria - 231; Metazoa - 0; Fungi - 0; Plants - 94; Viruses - 0; Other Eukaryotes - 212 (source: NCBI BLink).,0.573385674,0.520256987
+2,261570_at,T,F,AT1G01120,KCS1,3-ketoacyl-CoA synthase 1,0.535864793,0.517083134
+2,261601_at,T,F,AT1G49670,NQR,ARP protein (REF),0.709810103,0.608654986
+2,261686_at,T,F,AT1G47310,AT1G47310,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 13 growth stages; Has 45 Blast hits to 45 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 45; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.624734464,0.576994721
+2,261695_at,T,F,AT1G08520,ALB1|PDE166|ALB-1V|CHLD|V157,ALBINA 1,0.524953187,0.612769375
+2,261720_at,T,F,AT1G08460,HDA08|HDA8|ATHDA8,histone deacetylase 8,0.591042107,0.593789974
+2,261726_at,T,F,AT1G76270,AT1G76270,O-fucosyltransferase family protein,0.583923319,0.533256558
+2,261728_at,T,F,AT1G76160,sks5,SKU5 similar 5,0.500136236,0.756111971
+2,261744_at,T,F,AT1G08490,ATSUFS|SUFS|ATCPNIFS|ATNFS2|CPNIFS,chloroplastic NIFS-like cysteine desulfurase,0.609996699,0.566762618
+2,261758_at,T,F,AT1G08250,ADT6,arogenate dehydratase 6,0.635872997,0.529651654
+2,261769_at,T,F,AT1G76100,PETE1,plastocyanin 1,0.510125105,0.607142107
+2,261788_at,T,F,AT1G15980,NDF1|NDH48,NDH-dependent cyclic electron flow 1,0.508003778,0.593871018
+2,261793_at,T,F,AT1G16080,AT1G16080,"unknown protein; LOCATED IN: apoplast, chloroplast stroma, chloroplast, chloroplast envelope; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; Has 81 Blast hits to 81 proteins in 28 species: Archae - 0; Bacteria - 2; Metazoa - 0; Fungi - 0; Plants - 62; Viruses - 0; Other Eukaryotes - 17 (source: NCBI BLink).",0.544978048,0.56743255
+2,261824_at,T,F,AT1G11430,AT1G11430,"plastid developmental protein DAG, putative",0.567442275,0.523539575
+2,261853_at,T,F,AT1G50660,AT1G50660,unknown protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G20350.1); Has 21445 Blast hits to 15134 proteins in 1325 species: Archae - 461; Bacteria - 2309; Metazoa - 11052; Fungi - 1737; Plants - 1035; Viruses - 42; Other Eukaryotes - 4809 (source: NCBI BLink).,0.511782257,0.515176317
+2,261861_at,T,F,AT1G50450,AT1G50450,Saccharopine dehydrogenase,0.517657098,0.613728017
+2,261888_at,T,F,AT1G80800,AT1G80800,"pseudogene, 40S ribosomal protein S12 (RPS12B), similar to ribosomal protein S12 GB:AAD39838 GI:5106775 from (Hordeum vulgare); blastp match of 65% identity and 4.7e-12 P-value to GP|23617253|dbj|BAC20920.1||AP005764 putative 40S ribosomal protein S12 {Oryza sativa (japonica cultivar-group)}",0.545572844,0.732316172
+2,261898_at,T,F,AT1G80720,AT1G80720,Mitochondrial glycoprotein family protein,0.504761481,0.806612446
+2,261899_at,T,F,AT1G80820,CCR2|ATCCR2,cinnamoyl coa reductase,0.525287534,0.592832739
+2,261905_at,T,F,AT1G65070,AT1G65070,"DNA mismatch repair protein MutS, type 2",0.521719675,0.532569736
+2,261940_at,T,F,AT1G22520,AT1G22520,Domain of unknown function (DUF543),0.537762059,0.697090109
+2,261941_at,T,F,AT1G22490,AT1G22490,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,0.536712918,0.513255576
+2,261948_at,T,F,AT1G64680,AT1G64680,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G03055.1); Has 146 Blast hits to 146 proteins in 26 species: Archae - 0; Bacteria - 6; Metazoa - 0; Fungi - 0; Plants - 125; Viruses - 0; Other Eukaryotes - 15 (source: NCBI BLink).,0.506496071,0.588201036
+2,261952_at,T,F,AT1G64430,AT1G64430,Pentatricopeptide repeat (PPR) superfamily protein,0.569033969,0.562105668
+2,261954_at,T,F,AT1G64510,AT1G64510,Translation elongation  factor EF1B/ribosomal protein S6 family protein,0.591239133,0.518550674
+2,261957_at,T,F,AT1G64660,ATMGL|MGL,methionine gamma-lyase,0.789558256,0.524183121
+2,261975_at,T,F,AT1G64640,ENODL8|AtENODL8,early nodulin-like protein 8,0.595561681,0.68457985
+2,261986_s_at,F,NA,AT1G33720,CYP76C6,"cytochrome P450, family 76, subfamily C, polypeptide 6",0.544825984,0.528195949
+2,261999_at,T,F,AT1G33800,AT1G33800,Protein of unknown function (DUF579),0.60451206,0.566150541
+2,262017_at,T,F,AT1G35550,AT1G35550,elongation factor Tu C-terminal domain-containing protein,0.539903382,0.76386101
+2,262036_at,T,F,AT1G35530,AT1G35530,DEAD/DEAH box RNA helicase family protein,0.501885085,0.678405807
+2,262039_at,T,F,AT1G80050,APT2|PHT1.1|ATAPT2,adenine phosphoribosyl transferase 2,0.697103604,0.53639336
+2,262047_at,T,F,AT1G80160,AT1G80160,Lactoylglutathione lyase / glyoxalase I family protein,0.710198465,0.528174393
+2,262070_at,T,F,AT1G80010,FRS8,FAR1-related sequence 8,0.682984893,0.568188443
+2,262075_at,T,F,AT1G59560,ZCF61,E3 Ubiquitin ligase family protein,0.534016792,0.607792041
+2,262093_at,T,F,AT1G56145,AT1G56145,Leucine-rich repeat transmembrane protein kinase,0.524959094,0.51262165
+2,262098_at,T,F,AT1G56170,HAP5B|ATHAP5B|NF-YC2,"nuclear factor Y, subunit C2",0.55824431,0.584622251
+2,262104_at,T,F,AT1G02910,LPA1,tetratricopeptide repeat (TPR)-containing protein,0.554628489,0.546407801
+2,262109_at,T,F,AT1G02730,ATCSLD5|CSLD5|SOS6,cellulose synthase-like D5,0.569608659,0.527256452
+2,262110_at,T,F,AT1G02840,At-SR34,RNA-binding SR protein At-SR34 subfamily SR ,0.500652852,0.522419938
+2,262111_at,T,F,AT1G02960,AT1G02960,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G02965.1); Has 83 Blast hits to 82 proteins in 37 species: Archae - 0; Bacteria - 2; Metazoa - 20; Fungi - 7; Plants - 29; Viruses - 0; Other Eukaryotes - 25 (source: NCBI BLink).,0.508402716,0.556606027
+2,262116_at,T,F,AT1G02816,AT1G02816,"Protein of unknown function, DUF538",0.551930668,0.704249213
+2,262151_at,T,F,AT1G52510,AT1G52510,alpha/beta-Hydrolases superfamily protein,0.55857272,0.573744844
+2,262168_at,T,F,AT1G74730,AT1G74730,Protein of unknown function (DUF1118),0.521812365,0.595205052
+2,262172_at,T,F,AT1G74970,TWN3|RPS9,ribosomal protein S9,0.562630876,0.572324168
+2,262175_at,T,F,AT1G74880,NDH-O,NAD(P)H:plastoquinone dehydrogenase complex subunit O,0.518711863,0.57498443
+2,262200_at,T,F,AT2G01070,AT2G01070,Lung seven transmembrane receptor family protein,0.511108082,0.580404584
+2,262207_at,T,F,AT1G74850,PTAC2,plastid transcriptionally active 2,0.514855789,0.518642064
+2,262228_at,T,F,AT1G68690,AT1G68690,Protein kinase superfamily protein,0.567486461,0.585913706
+2,262283_at,T,F,AT1G68590,AT1G68590,Ribosomal protein PSRP-3/Ycf65,0.540714217,0.566791719
+2,262288_at,T,F,AT1G70760,CRR23,inorganic carbon transport protein-related,0.523940199,0.589004717
+2,262289_at,T,F,AT1G70770,AT1G70770,"Protein of unknown function DUF2359, transmembrane",0.530619682,0.651740459
+2,262291_at,T,F,AT1G70790,AT1G70790,Calcium-dependent lipid-binding (CaLB domain) family protein,0.693608284,0.666168518
+2,262309_at,T,F,AT1G70820,AT1G70820,"phosphoglucomutase, putative / glucose phosphomutase, putative",0.536096388,0.573549431
+2,262342_at,T,F,AT1G64150,AT1G64150,Uncharacterized protein family (UPF0016),0.560124221,0.560384728
+2,262347_at,T,F,AT1G64110,AT1G64110,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.652390861,0.508399021
+2,262357_at,T,F,AT1G73040,AT1G73040,Mannose-binding lectin superfamily protein,0.66712938,0.592310188
+2,262365_at,T,F,AT1G72870,AT1G72870,Disease resistance protein (TIR-NBS class),0.511428065,0.527621015
+2,262368_at,T,F,AT1G73060,LPA3,Low  PSII Accumulation 3,0.520424079,0.602423918
+2,262369_at,T,F,AT1G73010,PS2|ATPS2,phosphate starvation-induced gene 2,0.645092231,0.51738017
+2,262377_at,T,F,AT1G73110,AT1G73110,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.576121597,0.534594273
+2,262384_at,T,F,AT1G72950,AT1G72950,Disease resistance protein (TIR-NBS class),0.633021056,0.512368706
+2,262397_at,T,F,AT1G49380,AT1G49380,cytochrome c biogenesis protein family,0.539783395,0.517287257
+2,262495_at,T,F,AT1G21780,AT1G21780,BTB/POZ domain-containing protein,0.720660715,0.638847436
+2,262539_at,T,F,AT1G17200,AT1G17200,Uncharacterised protein family (UPF0497),0.548241752,0.501548353
+2,262569_at,T,F,AT1G15180,AT1G15180,MATE efflux family protein,0.528545778,0.561849598
+2,262603_at,T,F,AT1G15380,AT1G15380,Lactoylglutathione lyase / glyoxalase I family protein,0.56879568,0.504611969
+2,262607_at,T,F,AT1G13990,AT1G13990,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3110 (InterPro:IPR021503); Has 25 Blast hits to 25 proteins in 8 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 25; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.550130968,0.699637939
+2,262610_at,T,F,AT1G14140,AT1G14140,Mitochondrial substrate carrier family protein,0.695132905,0.558605181
+2,262612_at,T,F,AT1G14150,PQL1|PQL2,PsbQ-like 2,0.521929042,0.582266392
+2,262619_at,T,F,AT1G06550,AT1G06550,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,0.504766858,0.517547106
+2,262622_at,T,F,AT1G06510,AT1G06510,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; Has 376 Blast hits to 369 proteins in 152 species: Archae - 5; Bacteria - 113; Metazoa - 105; Fungi - 46; Plants - 27; Viruses - 2; Other Eukaryotes - 78 (source: NCBI BLink).,0.567601543,0.559317818
+2,262644_at,T,F,AT1G62710,BETAVPE|BETA-VPE,beta vacuolar processing enzyme,0.784907629,0.548836297
+2,262645_at,T,F,AT1G62750,ATSCO1/CPEF-G|ATSCO1|SCO1,Translation elongation factor EFG/EF2 protein,0.551404767,0.536069668
+2,262646_at,T,F,AT1G62800,ASP4,aspartate aminotransferase 4,0.563270946,0.605166294
+2,262648_at,T,F,AT1G14030,AT1G14030,Rubisco methyltransferase family protein,0.590805078,0.521741484
+2,262654_at,T,F,AT1G14180,AT1G14180,RING/U-box superfamily protein,0.764201368,0.531121627
+2,262664_at,T,F,AT1G13970,AT1G13970,Protein of unknown function (DUF1336),0.515152882,0.575601835
+2,262673_at,T,F,AT1G76060,EMB1793,LYR family of Fe/S cluster biogenesis protein,0.588482782,0.565487488
+2,262721_at,T,F,AT1G43560,Aty2|ty2,thioredoxin Y2,0.580203663,0.506873529
+2,262744_at,T,F,AT1G28680,AT1G28680,HXXXD-type acyl-transferase family protein,0.508267611,0.525918455
+2,262746_at,T,F,AT1G28960,ATNUDT15|NUDX15|ATNUDX15,nudix hydrolase homolog 15,0.660613831,0.60992125
+2,262747_at,T,F,AT1G28540,AT1G28540,unknown protein; Has 25 Blast hits to 25 proteins in 10 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 25; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.593561802,0.616757716
+2,262803_at,T,F,AT1G21000,AT1G21000,PLATZ transcription factor family protein,0.635420042,0.551667531
+2,262804_at,T,F,AT1G20880,AT1G20880,RNA-binding (RRM/RBD/RNP motifs) family protein,0.654741467,0.662555988
+2,262816_at,T,F,AT1G11780,AT1G11780,"oxidoreductase, 2OG-Fe(II) oxygenase family protein",0.527077283,0.697334966
+2,262823_at,T,F,AT1G11750,NCLPP1|CLPP6|NCLPP6,CLP protease proteolytic subunit 6,0.583556388,0.560865425
+2,262829_at,T,F,AT1G14970,AT1G14970,O-fucosyltransferase family protein,0.533879396,0.559020415
+2,262830_at,T,F,AT1G14700,ATPAP3|PAP3,purple acid phosphatase 3,0.528821689,0.596320443
+2,262867_at,T,F,AT1G64960,AT1G64960,ARM repeat superfamily protein,0.529671304,0.508605907
+2,262897_at,T,F,AT1G59840,CCB4,cofactor assembly of complex C,0.601135395,0.519747736
+2,262940_at,T,F,AT1G79520,AT1G79520,Cation efflux family protein,0.525744442,0.845575249
+2,262948_at,T,F,AT1G75560,AT1G75560,zinc knuckle (CCHC-type) family protein,0.56767257,0.708211346
+2,262951_at,T,F,AT1G75500,WAT1,Walls Are Thin 1,0.704885824,0.613486178
+2,262962_at,T,F,AT1G54340,ICDH,isocitrate dehydrogenase,0.653152659,0.529490367
+2,262970_at,T,F,AT1G75690,AT1G75690,DnaJ/Hsp40 cysteine-rich domain superfamily protein,0.563132167,0.572586721
+2,263007_at,T,F,AT1G54260,AT1G54260,winged-helix DNA-binding transcription factor family protein,0.626794204,0.507967889
+2,263023_at,T,F,AT1G23960,AT1G23960,Protein of unknown function (DUF626),0.694237934,0.550947895
+2,263034_at,T,F,AT1G24020,MLP423,MLP-like protein 423,0.517365311,0.553856092
+2,263054_at,T,F,AT2G04620,AT2G04620,Cation efflux family protein,0.658179136,0.556177258
+2,263065_at,T,F,AT2G18170,ATMPK7|MPK7,MAP kinase 7,0.609524477,0.549503302
+2,263072_at,T,F,AT2G17530,AT2G17530,Protein kinase superfamily protein,0.55862787,0.528340233
+2,263126_at,T,F,AT1G78460,AT1G78460,SOUL heme-binding family protein,0.552290341,0.594774106
+2,263131_at,T,F,AT1G78630,emb1473,Ribosomal protein L13 family protein,0.609092354,0.506120581
+2,263142_at,T,F,AT1G65230,AT1G65230,Uncharacterized conserved protein (DUF2358),0.536147974,0.587365958
+2,263158_at,T,F,AT1G54160,NFYA5|NF-YA5,"nuclear factor Y, subunit A5",0.583307288,0.740710083
+2,263173_at,T,F,AT1G54180,BRX-LIKE3|ATBRXL3,BREVIS RADIX-like 3,0.577078086,0.578866449
+2,263196_at,T,F,AT1G36070,AT1G36070,Transducin/WD40 repeat-like superfamily protein,0.596670117,0.562887545
+2,263206_at,T,F,AT1G10590,AT1G10590,"Nucleic acid-binding, OB-fold-like protein",0.519092895,0.521206236
+2,263208_at,T,F,AT1G10480,ZFP5,zinc finger protein 5,0.518894563,0.535894888
+2,263226_at,T,F,AT1G30690,AT1G30690,Sec14p-like phosphatidylinositol transfer family protein,0.716933373,0.622500689
+2,263236_at,T,F,AT1G10470,ATRR1|MEE7|ARR4|IBC7,response regulator 4,0.5041298,0.580789015
+2,263287_at,T,F,AT2G36145,AT2G36145,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast stroma, chloroplast; EXPRESSED IN: 19 plant structures; EXPRESSED DURING: 13 growth stages; Has 49 Blast hits to 49 proteins in 17 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 49; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).",0.545368142,0.590369485
+2,263322_at,T,F,AT2G04270,RNEE/G,RNAse E/G-like,0.509145644,0.580649021
+2,263326_at,T,F,AT2G04280,AT2G04280,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G12700.1); Has 130 Blast hits to 130 proteins in 16 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 124; Viruses - 0; Other Eukaryotes - 6 (source: NCBI BLink).,0.624089322,0.678729268
+2,263337_at,T,F,AT2G04990,AT2G04990,"pseudogene, hypothetical protein, contains Pfam profile PF03384: Drosophila protein of unknown function, DUF287",0.549980518,0.525618019
+2,263366_at,NA,NA,NA,NA,NA,0.609610863,0.52755479
+2,263448_at,T,F,AT2G31660,SAD2|URM9,ARM repeat superfamily protein,0.644012839,0.653866026
+2,263460_at,T,F,AT2G31810,AT2G31810,ACT domain-containing small subunit of acetolactate synthase protein,0.614410921,0.595243217
+2,263472_at,T,F,AT2G31955,CNX2,cofactor of nitrate reductase and xanthine dehydrogenase 2,0.662978543,0.67369637
+2,263499_at,T,F,AT2G42580,TTL3|VIT,tetratricopetide-repeat thioredoxin-like 3,0.602589128,0.591935035
+2,263570_at,T,F,AT2G27150,AOdelta|AAO3|AtAAO3|At-AO3,abscisic aldehyde oxidase 3,0.554789944,0.739152551
+2,263573_at,T,F,AT2G17150,AT2G17150,Plant regulator RWP-RK family protein,0.500920884,0.609139811
+2,263583_at,T,F,AT2G17130,IDH2|IDH-II,isocitrate dehydrogenase subunit 2,0.551974581,0.566978756
+2,263601_s_at,F,NA,AT4G34570,THY-2,thymidylate synthase 2,0.562612122,0.668420234
+2,263607_at,T,F,AT2G16270,AT2G16270,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 16 plant structures; EXPRESSED DURING: 9 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G16630.1); Has 1844 Blast hits to 1256 proteins in 271 species: Archae - 6; Bacteria - 283; Metazoa - 434; Fungi - 153; Plants - 91; Viruses - 52; Other Eukaryotes - 825 (source: NCBI BLink).,0.516458082,0.692820119
+2,263677_at,T,F,AT1G04520,PDLP2,plasmodesmata-located protein 2,0.579763639,0.692184051
+2,263678_at,T,F,AT1G04420,AT1G04420,NAD(P)-linked oxidoreductase superfamily protein,0.587422945,0.539308952
+2,263704_at,T,F,AT1G31130,AT1G31130,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G19950.1); Has 246 Blast hits to 244 proteins in 29 species: Archae - 2; Bacteria - 16; Metazoa - 0; Fungi - 0; Plants - 222; Viruses - 0; Other Eukaryotes - 6 (source: NCBI BLink).,0.500534108,0.62594106
+2,263718_at,T,F,AT2G13570,NF-YB7,"nuclear factor Y, subunit B7",0.504818938,0.575940575
+2,263736_at,T,F,AT1G60000,AT1G60000,RNA-binding (RRM/RBD/RNP motifs) family protein,0.514796817,0.598004408
+2,263760_at,T,F,AT2G21280,GC1|ATSULA|SULA,NAD(P)-binding Rossmann-fold superfamily protein,0.50417421,0.620379874
+2,263766_at,T,F,AT2G21440,AT2G21440,RNA-binding (RRM/RBD/RNP motifs) family protein,0.505470134,0.764131681
+2,263811_at,T,F,AT2G04350,LACS8,AMP-dependent synthetase and ligase family protein,0.777906917,0.615996884
+2,263846_at,T,F,AT2G36990,SOLDAT8|ATSIG6|SIGF|SIG6,RNApolymerase sigma-subunit F,0.588126021,0.501491034
+2,263881_at,T,F,AT2G21820,AT2G21820,unknown protein; Has 45 Blast hits to 45 proteins in 13 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 45; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.717668156,0.608183282
+2,263882_at,T,F,AT2G21790,CLS8|RNR1|R1|ATRNR1,ribonucleotide reductase 1,0.651352207,0.682874047
+2,263898_at,T,F,AT2G21950,SKIP6,SKP1 interacting partner 6,0.599652484,0.698418745
+2,263906_at,T,F,AT2G36250,FTSZ2-1|ATFTSZ2-1,Tubulin/FtsZ family protein,0.539596252,0.591010933
+2,263915_at,T,F,AT2G36430,AT2G36430,Plant protein of unknown function (DUF247),0.549966144,0.564904793
+2,263942_at,T,F,AT2G35860,FLA16,FASCICLIN-like arabinogalactan protein 16 precursor,0.55053426,0.517991308
+2,263957_at,T,F,AT2G35880,AT2G35880,TPX2 (targeting protein for Xklp2) protein family,0.577492935,0.728259956
+2,263975_at,T,F,AT2G42710,AT2G42710,Ribosomal protein L1p/L10e family,0.555151825,0.779605568
+2,263981_at,T,F,AT2G42870,HLH1|PAR1,phy rapidly regulated 1,0.501286626,0.670059739
+2,264037_at,T,F,AT2G03750,AT2G03750,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.575660119,0.524632389
+2,264041_at,T,F,AT2G03710,SEP4|AGL3,K-box region and MADS-box transcription factor family protein,0.511576457,0.592775303
+2,264088_at,NA,NA,NA,NA,NA,0.760992792,0.538369177
+2,264102_at,T,F,AT1G79270,ECT8,evolutionarily conserved C-terminal region 8,0.77437067,0.58015331
+2,264154_at,T,F,AT1G65430,ARI8|ATARI8,IBR domain-containing protein,0.549730853,0.636804153
+2,264160_at,T,T,AT1G65450,AT1G65450,HXXXD-type acyl-transferase family protein,0.523472496,0.548920602
+2,264163_at,T,T,AT1G65450,AT1G65450,HXXXD-type acyl-transferase family protein,0.558319582,0.555445441
+2,264199_at,T,F,AT1G22700,AT1G22700,Tetratricopeptide repeat (TPR)-like superfamily protein,0.604291735,0.53516236
+2,264220_at,T,F,AT1G60430,ARPC3,actin-related protein C3,0.510956044,0.701987286
+2,264244_at,T,F,AT1G60440,PANK1|ATPANK1|ATCOAA,pantothenate kinase 1,0.796204292,0.638345504
+2,264247_at,T,F,AT1G60160,AT1G60160,Potassium transporter family protein,0.503352864,0.640910336
+2,264249_at,T,F,AT1G78920,VP2|AVP2|AVPL1|VHP2;1|AtVHP2;1,vacuolar H+-pyrophosphatase 2,0.55631753,0.511873883
+2,264250_at,T,F,AT1G78680,GGH2|ATGGH2,gamma-glutamyl hydrolase 2,0.615077263,0.513302415
+2,264262_at,T,F,AT1G09200,AT1G09200,Histone superfamily protein,0.661796337,0.634129955
+2,264266_at,T,F,AT1G09160,AT1G09160,Protein phosphatase 2C family protein,0.767759905,0.567956012
+2,264279_s_at,F,NA,AT1G78820,AT1G78820,D-mannose binding lectin protein with Apple-like carbohydrate-binding domain,0.548810975,0.545483588
+2,264285_at,T,F,AT1G62040,ATG8C,Ubiquitin-like superfamily protein,0.65151443,0.69023607
+2,264300_at,T,F,AT1G78670,ATGGH3|GGH3,gamma-glutamyl hydrolase 3,0.590464539,0.638317237
+2,264327_at,T,F,AT1G04170,EIF2 GAMMA,eukaryotic translation initiation factor 2 gamma subunit,0.543447927,0.817096237
+2,264340_at,T,F,AT1G70280,AT1G70280,NHL domain-containing protein,0.627192206,0.589924799
+2,264377_at,T,F,AT2G25060,ENODL14|AtENODL14,early nodulin-like protein 14,0.551223906,0.540386538
+2,264381_at,T,F,AT2G25100,AT2G25100,"Polynucleotidyl transferase, ribonuclease H-like superfamily protein",0.558394438,0.561725949
+2,264383_at,T,F,AT2G25080,GPX1|ATGPX1,glutathione peroxidase 1,0.509672237,0.616228172
+2,264385_at,T,F,AT1G12020,AT1G12020,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G62422.1); Has 89 Blast hits to 88 proteins in 16 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 87; Viruses - 0; Other Eukaryotes - 2 (source: NCBI BLink).,0.592578137,0.568745656
+2,264418_at,T,F,AT1G43190,PTB3,polypyrimidine tract-binding protein 3,0.618302755,0.553736879
+2,264419_s_at,F,NA,AT5G33320,ARAPPT|CUE1|PPT,Glucose-6-phosphate/phosphate translocator-related,0.596424257,0.585866022
+2,264442_at,T,F,AT1G27480,AT1G27480,alpha/beta-Hydrolases superfamily protein,0.589340376,0.516092786
+2,264473_at,T,F,AT1G67180,AT1G67180,zinc finger (C3HC4-type RING finger) family protein / BRCT domain-containing protein,0.76523343,0.51837691
+2,264478_at,T,F,AT1G77270,AT1G77270,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G07730.1); Has 428 Blast hits to 388 proteins in 92 species: Archae - 0; Bacteria - 31; Metazoa - 189; Fungi - 10; Plants - 97; Viruses - 0; Other Eukaryotes - 101 (source: NCBI BLink).,0.582178902,0.53192573
+2,264498_at,T,F,AT1G30825,DIS2|ARPC2A,"Arp2/3 complex, 34 kD subunit p34-Arc",0.535829769,0.683527717
+2,264506_at,T,F,AT1G09560,GLP5,germin-like protein 5,0.544645922,0.588482862
+2,264562_at,T,F,AT1G55760,AT1G55760,BTB/POZ domain-containing protein,0.666471495,0.581135375
+2,264575_at,T,F,AT1G05190,emb2394,Ribosomal protein L6 family,0.528324812,0.561846053
+2,264587_at,T,F,AT1G05200,GLR3.4|ATGLR3.4|GLUR3,glutamate receptor 3.4,0.570725252,0.527357083
+2,264611_at,T,F,AT1G04680,AT1G04680,Pectin lyase-like superfamily protein,0.711023785,0.56043093
+2,264630_at,T,F,AT1G65470,FAS1|NFB2,chromatin assembly factor-1 (FASCIATA1) (FAS1),0.802915328,0.543754307
+2,264633_at,T,F,AT1G65660,SMP1,Pre-mRNA splicing Prp18-interacting factor,0.725770665,0.625434428
+2,264655_at,T,F,AT1G09070,(AT)SRC2|SRC2,soybean gene regulated by cold-2,0.524897047,0.621443795
+2,264699_at,T,F,AT1G69980,AT1G69980,unknown protein; LOCATED IN: endomembrane system; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; Has 30 Blast hits to 30 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 30; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.690322904,0.617965865
+2,264748_at,T,F,AT1G70070,ISE2|EMB25|PDE317,"DEAD/DEAH box helicase, putative",0.531911599,0.553619344
+2,264756_at,T,F,AT1G61370,AT1G61370,S-locus lectin protein kinase family protein,0.528856762,0.541317933
+2,264770_at,T,F,AT1G23030,AT1G23030,ARM repeat superfamily protein,0.516200063,0.619256757
+2,264779_at,T,F,AT1G08570,ACHT4,atypical CYS  HIS rich thioredoxin 4,0.572040997,0.751933396
+2,264781_at,T,F,AT1G08540,SIGA|SIGB|ATSIG1|ATSIG2|SIG1|SIG2|ABC1,RNApolymerase sigma subunit 2,0.532420874,0.564576203
+2,264820_at,T,F,AT1G03475,HEMF1|ATCPO-I|LIN2,Coproporphyrinogen III oxidase,0.605703773,0.518584531
+2,264828_at,T,F,AT1G03380,ATATG18G|ATG18G,homolog of yeast autophagy 18 (ATG18) G,0.603991439,0.747769568
+2,264848_at,T,F,AT2G17350,AT2G17350,unknown protein; Has 119 Blast hits to 93 proteins in 40 species: Archae - 0; Bacteria - 3; Metazoa - 18; Fungi - 12; Plants - 44; Viruses - 0; Other Eukaryotes - 42 (source: NCBI BLink).,0.585099536,0.721430041
+2,264893_at,T,F,AT1G23140,AT1G23140,Calcium-dependent lipid-binding (CaLB domain) family protein,0.552908849,0.500889875
+2,264904_s_at,F,NA,AT4G35460,ATNTRB|NTR1|NTRB,NADPH-dependent thioredoxin reductase B,0.506843257,0.569792029
+2,264926_at,T,F,AT1G60660,CB5LP|ATCB5LP,cytochrome B5-like protein,0.568873203,0.56063264
+2,265066_at,T,F,AT1G03870,FLA9,FASCICLIN-like arabinoogalactan 9,0.655101191,0.613843627
+2,265097_at,T,F,AT1G04020,ROW1|ATBARD1|BARD1,breast cancer associated RING 1,0.527414317,0.754227351
+2,265107_s_at,F,NA,AT1G63380,AT1G63380,NAD(P)-binding Rossmann-fold superfamily protein,0.597235403,0.728052327
+2,265109_s_at,F,NA,AT1G62630,AT1G62630,Disease resistance protein (CC-NBS-LRR class) family,0.56194436,0.544846737
+2,265117_at,T,F,AT1G62500,AT1G62500,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.553142077,0.559345795
+2,265161_at,T,F,AT1G30900,BP80-3;3|VSR6|VSR3;3,VACUOLAR SORTING RECEPTOR 6,0.567507974,0.515639315
+2,265175_at,T,F,AT1G23480,ATCSLA3|CSLA03|CSLA3|ATCSLA03,cellulose synthase-like A3,0.581481095,0.744082672
+2,265187_at,T,F,AT1G23490,ATARFA1A|ATARF|ARF1|ATARF1,ADP-ribosylation factor 1,0.590266411,0.617607611
+2,265192_at,T,F,AT1G05060,AT1G05060,unknown protein; Has 34 Blast hits to 34 proteins in 13 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 34; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.505205681,0.646404527
+2,265201_at,T,F,AT2G36810,AT2G36810,ARM repeat superfamily protein,0.603978727,0.515990297
+2,265247_at,T,F,AT2G43030,AT2G43030,Ribosomal protein L3 family protein,0.591412193,0.537258455
+2,265248_at,T,F,AT2G43010,SRL2|PIF4,phytochrome interacting factor 4,0.544791067,0.561237224
+2,265273_at,T,F,AT2G28320,AT2G28320,Pleckstrin homology (PH) and lipid-binding START domains-containing protein,0.609165422,0.595915168
+2,265311_at,T,F,AT2G20250,AT2G20250,unknown protein; Has 10 Blast hits to 10 proteins in 6 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 2; Plants - 8; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.512576861,0.588032945
+2,265330_at,T,F,AT2G18440,GUT15,GUT15 (GENE WITH UNSTABLE TRANSCRIPT 15); other RNA,0.565977048,0.564270235
+2,265334_at,T,F,AT2G18370,AT2G18370,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.512025182,0.527007713
+2,265345_at,T,F,AT2G22680,AT2G22680,Zinc finger (C3HC4-type RING finger) family protein,0.524973684,0.507110836
+2,265357_at,T,F,AT2G16740,UBC29,ubiquitin-conjugating enzyme 29,0.562843511,0.523774513
+2,265364_at,T,F,AT2G13330,AT2G13330,"gypsy-like retrotransposon family, has a 2.0e-156 P-value blast match to GB:AAD11615 prpol (gypsy_Ty3-element) (Zea mays)",0.524452834,0.506295419
+2,265376_at,T,F,AT2G05810,AT2G05810,ARM repeat superfamily protein,0.580861218,0.656660826
+2,265377_at,T,F,AT2G05790,AT2G05790,O-Glycosyl hydrolases family 17 protein,0.514899548,0.676049366
+2,265384_at,T,F,AT2G20760,AT2G20760,Clathrin light chain protein,0.504451418,0.567524358
+2,265397_at,T,F,AT2G11090,AT2G11090,similar to unknown protein [Arabidopsis thaliana] (TAIR:AT2G07880.1),0.516289058,0.525960442
+2,265427_at,T,T,AT2G20740,AT2G20740,Tetraspanin family protein,0.507034479,0.756108151
+2,265501_at,T,F,AT2G15490,UGT73B4,UDP-glycosyltransferase 73B4,0.549369584,0.541604269
+2,265611_at,T,F,AT2G25510,AT2G25510,unknown protein; Has 2 Blast hits to 2 proteins in 1 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 2; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.51342552,0.530426091
+2,265617_at,T,F,AT2G25520,AT2G25520,Drug/metabolite transporter superfamily protein,0.623956172,0.543517467
+2,265627_at,T,F,AT2G27285,AT2G27285,Coiled-coil domain-containing protein 55 (DUF2040),0.556967481,0.738796663
+2,265704_at,T,F,AT2G03420,AT2G03420,unknown protein; Has 38 Blast hits to 38 proteins in 17 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 38; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.601353073,0.517519819
+2,265764_at,T,T,AT2G48060,AT2G48060,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: shoot, sperm cell; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF3595 (InterPro:IPR021999); Has 533 Blast hits to 341 proteins in 95 species: Archae - 2; Bacteria - 15; Metazoa - 318; Fungi - 0; Plants - 93; Viruses - 0; Other Eukaryotes - 105 (source: NCBI BLink).",0.527646681,0.592380208
+2,265817_at,T,F,AT2G18050,HIS1-3,histone H1-3,0.723887611,0.514657876
+2,265819_at,T,F,AT2G17972,AT2G17972,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast thylakoid membrane, chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 14 growth stages; Has 34 Blast hits to 34 proteins in 17 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 34; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).",0.565561969,0.527990982
+2,265869_at,T,F,AT2G01760,RR14|ARR14,response regulator 14,0.622038446,0.511263606
+2,265883_at,T,F,AT2G42310,AT2G42310,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G57785.1); Has 115 Blast hits to 115 proteins in 48 species: Archae - 0; Bacteria - 0; Metazoa - 4; Fungi - 44; Plants - 67; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.537685756,0.522438326
+2,265894_at,T,F,AT2G15050,LTP|LTP7,lipid transfer protein,0.534453307,0.572175979
+2,265917_at,T,F,AT2G15080,RLP19|AtRLP19,receptor like protein 19,0.507203829,0.572217528
+2,265922_at,T,F,AT2G18480,AT2G18480,Major facilitator superfamily protein,0.689069267,0.514195778
+2,265938_at,T,F,AT2G19620,NDL3,N-MYC downregulated-like 3,0.772334092,0.504057711
+2,265960_at,T,F,AT2G37470,AT2G37470,Histone superfamily protein,0.793601004,0.50931716
+2,265961_at,T,F,AT2G37400,AT2G37400,Tetratricopeptide repeat (TPR)-like superfamily protein,0.523450082,0.527112285
+2,265989_at,T,F,AT2G24260,LRL1,LJRHL1-like 1,0.526577214,0.505808794
+2,266007_at,T,F,AT2G37380,AT2G37380,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G39370.1); Has 1284 Blast hits to 422 proteins in 114 species: Archae - 0; Bacteria - 90; Metazoa - 125; Fungi - 151; Plants - 136; Viruses - 0; Other Eukaryotes - 782 (source: NCBI BLink).,0.721436847,0.535909932
+2,266018_at,T,F,AT2G18710,SCY1,SECY homolog 1,0.536413894,0.590710727
+2,266026_at,T,F,AT2G05980,AT2G05980,"non-LTR retrotransposon family (LINE), has a 1.0e-42 P-value blast match to GB:NP_038607 L1 repeat, Tf subfamily, member 9 (LINE-element) (Mus musculus)",0.521319824,0.535348947
+2,266034_at,T,F,AT2G06005,FIP1,FRIGIDA interacting protein 1,0.508096033,0.657444948
+2,266035_at,T,F,AT2G05990,MOD1|ENR1,NAD(P)-binding Rossmann-fold superfamily protein,0.57449732,0.713252394
+2,266075_s_at,F,NA,AT4G38290,AT4G38290,Haemolysin-III related integral membrane protein,0.546416734,0.773582818
+2,266098_at,T,F,AT2G37870,AT2G37870,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,0.761437915,0.568666181
+2,266110_at,T,F,AT2G02080,IDD4|AtIDD4,indeterminate(ID)-domain 4,0.516804242,0.543152278
+2,266170_at,T,F,AT2G39050,AT2G39050,hydroxyproline-rich glycoprotein family protein,0.748065569,0.521888639
+2,266175_at,T,F,AT2G02450,LOV1|NAC035|ANAC035|anac034,NAC domain containing protein 35,0.573808314,0.518585116
+2,266215_at,T,F,AT2G06850,EXT|XTH4|EXGT-A1,xyloglucan endotransglucosylase/hydrolase 4,0.641536913,0.631159284
+2,266221_at,T,F,AT2G28760,UXS6,UDP-XYL synthase 6,0.553789366,0.527948137
+2,266226_at,T,F,AT2G28740,HIS4,histone H4,0.605609112,0.531561819
+2,266268_at,T,F,AT2G29510,AT2G29510,Protein of unknown function (DUF3527),0.701702745,0.685653094
+2,266277_at,T,F,AT2G29310,AT2G29310,NAD(P)-binding Rossmann-fold superfamily protein,0.542956914,0.591894733
+2,266291_at,T,F,AT2G29320,AT2G29320,NAD(P)-binding Rossmann-fold superfamily protein,0.546401463,0.551857671
+2,266292_at,T,F,AT2G29350,SAG13,senescence-associated gene 13,0.505262285,0.674972508
+2,266293_at,T,F,AT2G29360,AT2G29360,NAD(P)-binding Rossmann-fold superfamily protein,0.537624322,0.570429104
+2,266322_at,T,F,AT2G46690,AT2G46690,SAUR-like auxin-responsive protein family,0.535092714,0.542351168
+2,266380_at,T,F,AT2G14680,MEE13,myosin heavy chain-related,0.643942463,0.569182359
+2,266405_at,T,F,AT2G38580,AT2G38580,Mitochondrial ATP synthase D chain-related protein,0.500205524,0.630435099
+2,266441_at,T,F,AT2G43250,AT2G43250,unknown protein; Has 32 Blast hits to 32 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 32; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.728918351,0.617688451
+2,266458_at,T,F,AT2G47710,AT2G47710,Adenine nucleotide alpha hydrolases-like superfamily protein,0.512489826,0.749650683
+2,266462_at,T,F,AT2G47770,ATTSPO|TSPO,TSPO(outer membrane tryptophan-rich sensory protein)-related,0.721256277,0.634324147
+2,266516_at,T,F,AT2G47880,AT2G47880,Glutaredoxin family protein,0.582998031,0.508546526
+2,266557_at,T,F,AT2G46080,AT2G46080,CONTAINS InterPro DOMAIN/s: Protein BYPASS related (InterPro:IPR008511); BEST Arabidopsis thaliana protein match is: Protein of unknown function (DUF793) (TAIR:AT1G01550.2); Has 153 Blast hits to 139 proteins in 20 species: Archae - 0; Bacteria - 2; Metazoa - 1; Fungi - 0; Plants - 150; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.767148135,0.52891699
+2,266567_at,T,F,AT2G24050,eIFiso4G2,MIF4G domain-containing protein / MA3 domain-containing protein,0.53770947,0.736712196
+2,266574_at,T,F,AT2G23890,AT2G23890,"HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase",0.515393437,0.512858076
+2,266595_at,T,F,AT2G46180,GC4,golgin candidate 4,0.55063254,0.518055285
+2,266609_at,T,F,AT2G35510,SRO1,similar to RCD one 1,0.559469385,0.597943203
+2,266617_at,T,F,AT2G29670,AT2G29670,Tetratricopeptide repeat (TPR)-like superfamily protein,0.574557141,0.564160514
+2,266618_at,T,F,AT2G35480,AT2G35480,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 13 plant structures; EXPRESSED DURING: 9 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT1G32260.1); Has 47 Blast hits to 47 proteins in 14 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 47; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.566531756,0.656235064
+2,266620_at,T,T,AT2G35450,AT2G35450,catalytics;hydrolases,0.520288634,0.596439421
+2,266642_at,T,F,AT2G35410,AT2G35410,RNA-binding (RRM/RBD/RNP motifs) family protein,0.502732706,0.629523358
+2,266650_at,T,F,AT2G25800,AT2G25800,Protein of unknown function (DUF810),0.645998412,0.581280231
+2,266683_at,NA,NA,NA,NA,NA,0.513238189,0.581893011
+2,266684_at,T,F,AT2G19720,rps15ab,ribosomal protein S15A B,0.512099579,0.846025991
+2,266696_at,T,F,AT2G19680,AT2G19680,Mitochondrial ATP synthase subunit G protein,0.644511372,0.684586562
+2,266698_at,T,F,AT2G19830,SNF7.2|VPS32,SNF7 family protein,0.530979892,0.594206755
+2,266712_at,T,F,AT2G46750,AT2G46750,"D-arabinono-1,4-lactone oxidase family protein",0.501311644,0.500682237
+2,266721_at,T,F,AT2G03220,FT1|MUR2|ATFT1|ATFUT1,fucosyltransferase 1,0.589272805,0.559193195
+2,266758_at,T,F,AT2G46920,POL,Protein phosphatase 2C family protein,0.516054652,0.56712984
+2,266763_at,T,F,AT2G47070,SPL1,squamosa promoter binding protein-like 1,0.640043224,0.545564518
+2,266775_at,T,F,AT2G29065,AT2G29065,GRAS family transcription factor,0.59619457,0.533273752
+2,266802_at,T,F,AT2G22900,AT2G22900,Galactosyl transferase GMA12/MNN10 family protein,0.54209429,0.540325593
+2,266803_at,T,F,AT2G28930,APK1B|PK1B,protein kinase 1B,0.533874262,0.551051756
+2,266813_at,T,F,AT2G44920,AT2G44920,Tetratricopeptide repeat (TPR)-like superfamily protein,0.525651106,0.605093424
+2,266819_at,T,F,AT2G44870,AT2G44870,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 15 growth stages; Has 39 Blast hits to 39 proteins in 18 species: Archae - 0; Bacteria - 2; Metazoa - 0; Fungi - 0; Plants - 37; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,0.56636326,0.513976811
+2,266835_at,T,F,AT2G29990,NDA2,alternative NAD(P)H dehydrogenase 2,0.644884253,0.645740614
+2,266857_at,T,F,AT2G26900,AT2G26900,Sodium Bile acid symporter family,0.539428629,0.531706339
+2,266867_at,T,F,AT2G45770,CPFTSY|FRD4,"signal recognition particle receptor protein, chloroplast (FTSY)",0.580742747,0.530631629
+2,266873_at,T,F,AT2G44740,CYCP4;1,cyclin p4;1,0.636395405,0.643124635
+2,266887_at,T,F,AT2G44650,CHL-CPN10|CPN10,chloroplast chaperonin 10,0.55810403,0.514303017
+2,266891_at,T,F,AT2G44690,ARAC9|ATROP8|ROP8,Arabidopsis RAC-like 9,0.559346987,0.669334664
+2,266899_at,T,F,AT2G34620,AT2G34620,Mitochondrial transcription termination factor family protein,0.615379049,0.503075034
+2,266924_at,T,F,AT2G45730,AT2G45730,eukaryotic initiation factor 3 gamma subunit family protein,0.533117358,0.604190893
+2,266929_at,T,F,AT2G45850,AT2G45850,AT hook motif DNA-binding family protein,0.608678602,0.520162785
+2,266942_at,T,F,AT2G18990,TXND9,thioredoxin domain-containing protein 9 homolog,0.689365581,0.581445113
+2,266962_at,T,F,AT2G39435,AT2G39435,Phosphatidylinositol N-acetyglucosaminlytransferase subunit P-related,0.746153211,0.505157444
+2,266979_at,T,F,AT2G39470,PPL2,PsbP-like protein 2,0.548125197,0.562031554
+2,266986_at,T,F,AT2G39630,AT2G39630,Nucleotide-diphospho-sugar transferases superfamily protein,0.50707312,0.532581563
+2,267017_at,T,T,AT2G39140,SVR1,pseudouridine synthase family protein,0.513217594,0.526465709
+2,267027_at,T,F,AT2G38330,AT2G38330,MATE efflux family protein,0.571280988,0.5776591
+2,267035_at,T,F,AT2G38400,AGT3,alanine:glyoxylate aminotransferase 3,0.534566718,0.540816209
+2,267070_at,T,F,AT2G41000,AT2G41000,Chaperone DnaJ-domain superfamily protein,0.766727416,0.523913832
+2,267078_at,T,F,AT2G40960,AT2G40960,Single-stranded nucleic acid binding R3H protein,0.542130774,0.542091782
+2,267080_at,T,F,AT2G41190,AT2G41190,Transmembrane amino acid transporter family protein,0.684599977,0.696678853
+2,267138_s_at,F,NA,AT2G38210,PDX1L4,putative PDX1-like protein 4,0.526433658,0.58362752
+2,267172_at,T,F,AT2G37660,AT2G37660,NAD(P)-binding Rossmann-fold superfamily protein,0.573158146,0.556353956
+2,267173_at,T,F,AT2G37560,ATORC2|ORC2,origin recognition complex second largest subunit 2,0.682899363,0.598197417
+2,267174_at,T,F,AT2G37600,AT2G37600,Ribosomal protein L36e family protein,0.504201396,0.725181827
+2,267175_s_at,F,NA,AT3G53750,ACT3,actin 3,0.539617807,0.656279308
+2,267180_at,T,F,AT2G37570,SLT1,HSP20-like chaperones superfamily protein,0.585761512,0.691256005
+2,267181_at,T,F,AT2G37760,AT2G37760,NAD(P)-linked oxidoreductase superfamily protein,0.714390595,0.531925146
+2,267187_s_at,F,NA,AT2G44160,MTHFR2,methylenetetrahydrofolate reductase 2,0.583783157,0.633664365
+2,267254_at,T,F,AT2G23030,SNRK2-9|SNRK2.9,SNF1-related protein kinase 2.9,0.509251088,0.521175201
+2,267274_at,T,F,AT2G30160,AT2G30160,Mitochondrial substrate carrier family protein,0.681610052,0.611456419
+2,267281_at,T,F,AT2G19400,AT2G19400,"AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein",0.516577652,0.537314473
+2,267294_at,T,F,AT2G23670,YCF37,homolog of Synechocystis YCF37,0.540229225,0.556036558
+2,267335_s_at,F,NA,AT1G64760,AT1G64760,O-Glycosyl hydrolases family 17 protein,0.729947012,0.572772908
+2,267368_at,T,F,AT2G44350,ATCS|CSY4,Citrate synthase family protein,0.627573114,0.559297432
+2,267413_at,T,F,AT2G34960,CAT5,cationic amino acid transporter 5,0.548236273,0.578959841
+2,267416_at,T,F,AT2G34980,SETH1,phosphatidylinositolglycan synthase family protein,0.664313474,0.514789354
+2,267421_at,T,F,AT2G35040,AT2G35040,AICARFT/IMPCHase bienzyme family protein,0.687751824,0.54613813
+2,267433_at,T,F,AT2G26350,PEX10|ATPEX10,peroxin 10,0.557236249,0.685146208
+2,267435_at,T,F,AT2G33800,AT2G33800,Ribosomal protein S5 family protein,0.595064311,0.548343934
+2,267442_at,T,F,AT2G19080,AT2G19080,metaxin-related,0.519972257,0.555664972
+2,267465_at,T,F,AT2G19170,SLP3,subtilisin-like serine protease 3,0.532102005,0.646634444
+2,267489_s_at,F,NA,AT2G19120,AT2G19120,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.657804157,0.51929721
+2,267545_at,T,F,AT2G32690,GRP23|ATGRP23,glycine-rich protein 23,0.572204779,0.527614491
+2,267549_at,T,F,AT2G32640,AT2G32640,Lycopene beta/epsilon cyclase protein,0.555583309,0.560480707
+2,267577_at,T,F,AT2G30710,AT2G30710,Ypt/Rab-GAP domain of gyp1p superfamily protein,0.63934125,0.543744811
+2,267578_at,T,F,AT2G30695,AT2G30695,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: protein folding, protein transport; LOCATED IN: chloroplast stroma, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Trigger factor, ribosome-binding, bacterial (InterPro:IPR008881); Has 253 Blast hits to 253 proteins in 72 species: Archae - 0; Bacteria - 138; Metazoa - 0; Fungi - 0; Plants - 40; Viruses - 0; Other Eukaryotes - 75 (source: NCBI BLink).",0.585615483,0.518557089
+2,267606_at,T,F,AT2G26640,KCS11,3-ketoacyl-CoA synthase 11,0.52879981,0.594120686
+2,267611_at,T,F,AT2G26660,ATSPX2|SPX2,SPX domain gene 2,0.590944296,0.581954784
+2,267619_at,T,F,AT2G26730,AT2G26730,Leucine-rich repeat protein kinase family protein,0.52497623,0.51825273
+2,267629_at,T,F,AT2G42120,POLD2,DNA polymerase delta small subunit,0.5583735,0.610123014
+2,267630_at,T,F,AT2G42130,AT2G42130,Plastid-lipid associated protein PAP / fibrillin family protein,0.528435488,0.580002747
+2,267635_at,T,F,AT2G42220,AT2G42220,Rhodanese/Cell cycle control phosphatase superfamily protein,0.570885299,0.566388259
